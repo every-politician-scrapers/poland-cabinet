@@ -1,8 +1,24 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q9155828,Anna Zalewska,Anna Zalewska,female,1965-07-06T00:00:00Z,11,,Q25711733,minister edukacji narodowej,Q9155828-1fcb11e7-4797-7ec3-0ae7-647959498fb1
-Q9253246,Elżbieta Rafalska,Elżbieta Rafalska,female,1955-06-22T00:00:00Z,11,,Q25919989,minister pracy i polityki społecznej,Q9253246-0aa1fe28-42be-b8e2-ed6c-2cf5d903222f
+Q48862466,Adam Niedzielski,Adam Niedzielski,male,1973-11-19T00:00:00Z,11,,Q57775575,Minister zdrowia,Q48862466-5129FB94-7D8A-4FA6-B7B4-1A33DB10A77E
+Q381575,Andrzej Adamczyk,Andrzej Adamczyk,male,1959-01-04T00:00:00Z,11,,Q107919732,Minister infrastruktury,Q381575-ED968F78-C161-49C3-8302-C6ECD5FD8F92
+Q21282109,Grzegorz Puda,Grzegorz Puda,male,1982-07-13T00:00:00Z,11,,Q107919710,Minister rolnictwa i rozwoju wsi,Q21282109-6DD0DCAF-2FF9-424A-B839-64CACF14591D
+Q11715561,Jacek Sasin,Jacek Sasin,male,1969-11-06T00:00:00Z,11,,Q107919703,Minister aktywów państwowych,Q11715561-48D9CD1A-FCA1-46D4-A1B5-583F9FBBDD4E
+Q11715561,Jacek Sasin,Jacek Sasin,male,1969-11-06T00:00:00Z,11,,Q15051532,Wiceprezes Rady Ministrów Rzeczypospolitej Polskiej,Q11715561-577031B8-BE01-4308-A8E9-C062E38F7909
 Q222905,Jarosław Gowin,Jarosław Gowin,male,1961-12-04T00:00:00Z,11,,Q15051532,Wiceprezes Rady Ministrów Rzeczypospolitej Polskiej,Q222905-486b59eb-444d-9830-6399-eb2ebaa22f76
+Q55917,Jarosław Kaczyński,Jarosław Kaczyński,male,1949-06-18T00:00:00Z,11,,Q15051532,Wiceprezes Rady Ministrów Rzeczypospolitej Polskiej,Q55917-25767B36-F71A-437D-B12C-8372A84D8F80
+Q440788,Konrad Szymański,Konrad Szymański,male,1969-12-06T00:00:00Z,11,,Q11781474,Minister do spraw europejskich,Q440788-BBEC1AFB-26E3-48D2-A7BE-B1CFFC8FD79A
+Q1748055,Mariusz Błaszczak,Mariusz Błaszczak,male,1969-09-19T00:00:00Z,11,,Q64692688,minister obrony Polski,Q1748055-7DDDC5B5-1466-46F2-9B9B-DAF048CF2F10
+Q3845166,Mariusz Kamiński,Mariusz Kamiński,male,1965-09-25T00:00:00Z,11,,Q25598713,minister spraw wewnętrznych i administracji,Q3845166-9FC87518-2258-476F-A98D-CA21FB49045A
+Q48842537,Marlena Maląg,Marlena Maląg,female,1964-11-02T00:00:00Z,11,,Q107919654,Minister rodziny i polityki społecznej,Q48842537-C75F9F0E-A140-4DD7-B28E-6618A3E55D9B
 Q11771436,Mateusz Morawiecki,Mateusz Morawiecki,male,1968-06-20T00:00:00Z,11,,Q3259469,Prezes Rady Ministrów,Q11771436-3cb87835-47ad-9824-569b-1729367f9b02
-Q11814444,Paweł Szałamacha,Paweł Szałamacha,male,1969-01-24T00:00:00Z,11,,Q11781525,minister skarbu i finansów,Q11814444-7DA84268-974E-4095-95AC-0AE194236D66
-Q9388252,Zbigniew Rau,Zbigniew Rau,male,1955-02-03T00:00:00Z,11,,Q25598671,Minister Spraw Zagranicznych,Q9388252-8bd0a97a-44f3-ae44-90ac-b92e59a556e9
-Q159472,Zbigniew Ziobro,Zbigniew Ziobro,male,1970-08-18T00:00:00Z,11,,Q28048774,Minister Sprawiedliwości,Q159472-1ed2b27d-4ffc-92d5-33c3-f1118ce9db14
+Q21282017,Michał Cieślak,Michał Cieślak,male,1974-12-09T00:00:00Z,11,https://www.gov.pl/web/gov/rada-ministrow,Q93417831,Minister – członek Rady Ministrów,Q21282017-A34482D9-6241-4E69-A1E1-E364111BC8E3
+Q11778705,Michał Dworczyk,Michał Dworczyk,male,1975-07-22T00:00:00Z,11,,Q93417831,Minister bez teki,Q11778705-73443FD6-291B-4BF0-B4E6-BA09C3C93B72
+Q28672540,Michał Kurtyka,Michał Kurtyka,male,1973-07-20T00:00:00Z,11,,Q107919643,Minister klimatu i środowiska,Q28672540-864AC053-A66D-44F0-8E4F-1CD21AD3FCBE
+Q6836077,Michał Wójcik,Michał Wójcik,male,1971-04-17T00:00:00Z,11,,Q93417831,Minister bez teki,Q6836077-8BCEEB3B-8251-4832-AFDB-93DE2EF2C436
+Q11817487,Piotr Gliński,Piotr Gliński,male,1954-04-20T00:00:00Z,11,,Q15051532,Wiceprezes Rady Ministrów Rzeczypospolitej Polskiej,Q11817487-F0011A95-55AB-4E87-9197-F77CF811DD5D
+Q11817487,Piotr Gliński,Piotr Gliński,male,1954-04-20T00:00:00Z,11,,Q28976975,minister kultury i dziedzictwa narodowego,Q11817487-BE433841-C2AC-4E01-91B8-457499B862AF
+Q22350992,Przemysław Czarnek,Przemysław Czarnek,male,1977-06-11T00:00:00Z,11,https://www.gov.pl/web/gov/rada-ministrow,Q25711733,Minister edukacji i nauki,Q22350992-6B57C37D-B73B-4F6B-8F50-B2C678F6D5AE
+Q55391459,Tadeusz Kościński,Tadeusz Kościński,male,1956-12-09T00:00:00Z,11,,Q11781525,minister skarbu i finansów,Q55391459-F3D9EE73-FBF9-4169-B1E4-DA575C71D109
+Q9388252,Zbigniew Rau,Zbigniew Rau,male,1955-02-03T00:00:00Z,11,https://www.gov.pl/web/gov/rada-ministrow,Q25598671,Minister spraw zagranicznych,Q9388252-8bd0a97a-44f3-ae44-90ac-b92e59a556e9
+Q159472,Zbigniew Ziobro,Zbigniew Ziobro,male,1970-08-18T00:00:00Z,11,https://www.gov.pl/web/gov/rada-ministrow,Q28048774,Minister sprawiedliwości,Q159472-1ed2b27d-4ffc-92d5-33c3-f1118ce9db14
+Q21282120,Łukasz Schreiber,Łukasz Schreiber,male,1987-05-26T00:00:00Z,11,,Q93417831,Minister bez teki,Q21282120-0FCC2F45-2189-4C19-B032-68AD307A78C5
