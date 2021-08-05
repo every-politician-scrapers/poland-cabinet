@@ -13,6 +13,11 @@ class MemberList
 
     field :position do
       noko.css('.position').text.tidy
+          .gsub(', minister', '|Minister')
+          .gsub(', przewodniczący', '|Przewodniczący')
+          .gsub(', Koordynator', '|Koordynator')
+          .gsub(', Szef', '|Szef')
+          .split('|')
     end
   end
 
