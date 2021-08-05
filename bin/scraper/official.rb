@@ -8,7 +8,7 @@ class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
-      noko.css('.name').text.tidy
+      noko.css('.title').text.tidy
     end
 
     field :position do
@@ -28,7 +28,7 @@ class MemberList
     private
 
     def member_container
-      noko.css('.member')
+      noko.css('.bio-prev ul li')
     end
   end
 end
