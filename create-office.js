@@ -7,7 +7,7 @@ module.exports = (label) => {
   return {
     type: 'item',
     labels: {
-      en: label,
+      pl: label,
     },
     descriptions: {
       en: `cabinet position in ${meta.jurisdiction.name}`,
@@ -17,7 +17,7 @@ module.exports = (label) => {
       P279:  { value: 'Q83307'  }, // subclas of: minister
       P17:   { value: meta.country ? meta.country.id : meta.jurisdiction.id },
       P1001: { value: meta.jurisdiction.id },
-      P361: { // part of
+      P361:  { // part of
         value: meta.cabinet.parent,
         references: { P854: meta.source.url },
       }
