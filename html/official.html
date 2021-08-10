@@ -62,7 +62,161 @@ class="">
 <button aria-label="Akceptuję politykę dotycząca wykorzystania plików cookies. Zamknij pop-up."></button>
 </div>
 </div>
-<div id="govpl"></div>
+<header class="govpl">
+<nav id="gov-menu-nav">
+<button class="govpl__menu-opener" aria-controls="gov-menu" aria-expanded="false" aria-label="Menu główne GOV. Pokaż nawigację.">
+<span class="govpl__menu-opener__hamburger">
+<span></span>
+<span></span>
+<span></span>
+</span>
+</button>
+<div id="gov-menu" class="govpl-menu">
+<div class="govpl-menu__container" tabindex="-1">
+<div class="govpl-menu__section hide-desk">
+<ul>
+<li>
+<a href="https://www.gov.pl/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna"
+id="govpl-i-my_gov"
+>
+<i class="gov-icon gov-icon--account"></i>
+<span class="sr-only">Logowanie do panelu</span>Mój Gov
+</a>
+</li>
+</ul>
+</div>
+<div class="govpl-menu__section ">
+<ul>
+<li>
+<a href="https://www.gov.pl/"
+id="govpl-i-gov_home"
+>
+Strona główna <span class="sr-only">gov.pl</span>
+</a>
+</li>
+<li>
+<a href="/web/gov/rada-ministrow"
+class="active"
+id="govpl-i-council_of_ministers"
+>
+Rada Ministrów
+</a>
+</li>
+<li>
+<a href="https://gov.pl/premier"
+id="govpl-i-prime_minister"
+>
+Kancelaria Premiera
+</a>
+</li>
+<li>
+<a href="/web/gov/ministerstwa"
+id="govpl-i-ministries"
+>
+Ministerstwa
+</a>
+</li>
+<li>
+<a href="/web/gov/katalog-jednostek"
+id="govpl-i-units_catalog"
+>
+Urzędy, instytucje</br>i placówki RP
+</a>
+</li>
+</ul>
+</div>
+<div class="govpl-menu__section ">
+<ul>
+<li>
+<a href="/web/gov/uslugi-dla-obywatela"
+aria-label="Zobacz wszystkie usługi dla obywatela"
+id="govpl-i-services_for_citizens"
+>
+<i class="gov-icon gov-icon--citizen"></i>
+Usługi dla obywatela
+</a>
+</li>
+<li>
+<a href="/web/gov/uslugi-dla-przedsiebiorcy"
+aria-label="Zobacz wszystkie usługi dla przedsiębiorcy"
+id="govpl-i-services_for_business"
+>
+<i class="gov-icon gov-icon--business"></i>
+Usługi dla przedsiębiorcy
+</a>
+</li>
+<li>
+<a href="/web/gov/uslugi-dla-urzednika"
+aria-label="Zobacz wszystkie usługi dla urzędnika"
+id="govpl-i-services_for_officials"
+>
+<i class="gov-icon gov-icon--official"></i>
+Usługi dla urzędnika
+</a>
+</li>
+</ul>
+</div>
+<div class="govpl-menu__section govpl-menu__section--secondary">
+<ul>
+<li>
+<a href="https://www.gov.pl/web/koronawirus"
+id="govpl-i-covid19"
+>
+Koronawirus: informacje i zalecenia
+</a>
+</li>
+<li>
+<a href="https://www.gov.pl/web/gov/zaloz-profil-zaufany"
+id="govpl-i-profil_zaufany"
+>
+Załóż Profil zaufany
+</a>
+</li>
+<li>
+<a href="/web/baza-wiedzy"
+id="govpl-i-baza_wiedzy"
+>
+Baza wiedzy
+</a>
+</li>
+<li>
+<a href="https://www.gov.pl/web/sluzbacywilna"
+id="govpl-i-civil_service"
+>
+Serwis Służby Cywilnej
+</a>
+</li>
+<li>
+<a href="/web/gov/przeslij-opinie"
+id="govpl-i-send_feedback"
+>
+Weź udział w ankiecie
+</a>
+</li>
+</ul>
+</div>
+<button class="govpl-menu__close">Zamknij menu GOV.pl</button>
+</div></div>
+</nav>
+<nav id="top-bar-nav" class="govpl__top-bar">
+<h1 class="govpl__header">
+<a class="govpl__logotype govpl-logo" href="https://www.gov.pl/" aria-label="Strona główna gov.pl">
+<span class="govpl__portal-short-name ">gov.pl</span>
+</a>
+<span class="govpl__portal-name ">
+<span class="sr-only">gov.pl</span>
+Serwis Rzeczypospolitej Polskiej
+</span>
+</h1>
+<a class="govpl__search-link" href="https://www.gov.pl/web/gov/szukaj"><span class="loupe"></span><span class="sr-only">przejdź do wyszukiwarki</span></a>
+<a class="govpl__panel-login btn btn-secondary" href="https://www.gov.pl/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna">
+<span class="sr-only">Logowanie do panelu</span>Mój Gov
+</a>
+<span class="govpl__separator"></span>
+<img src="/img/icons/eu/eu-center-pl.svg" class="govpl__eu-logo" alt="Unia Europejska Logotyp Na granatowym tle 12 żółtych gwiazdek tworzących okrąg pod nim napis "Unia Europejska"">
+</nav>
+</header>
+<div class="govpl-spacer"></div>
 <div class="page-header alert-bar" id="js-alert-bar">
 <a class="alert-bar__link" href="https://www.gov.pl/web/koronawirus">
 <div class="main-container">
@@ -661,10 +815,42 @@ srcset="/photo/format/d7f16cef-4611-4332-adf3-be5927bd2073/resolution/237x237 23
 </main>
 <footer class="footer">
 <div class="main-container">
-<div id="govpl-footer"></div>
+<h2 class="sr-only">stopka gov.pl</h2>
+<div class="links" id="footer-links">
+<a href="https://www.gov.pl/" class="logo">
+<img src="/img/icons/godlo-12.svg" alt="" width="30" aria-hidden="true">
+<span class="sr-only">Strona główna <span class="sr-only">gov.pl</span></span> gov.pl
+</a>
+<ul>
+<li><a href="https://www.rcl.gov.pl/">Rządowe Centrum Legislacji</a></li>
+<li><a href="/web/gov/polityka-dotyczaca-cookies">Polityka cookies</a></li>
+<li><a href="https://www.gov.pl/web/sluzbacywilna">Służba cywilna</a></li>
+<li><a href="https://www.gov.pl/web/gov/zaloz-profil-zaufany">Profil zaufany</a></li>
+<li><a href="https://www.gov.pl/bip">BIP</a></li>
+<li><a href="/web/gov/prawa-autorskie">Prawa autorskie</a></li><li><a href="/web/gov/warunki-korzystania">Warunki korzystania</a></li><li><a href="/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna">Klauzula RODO</a></li><li><a href="http://mapy.geoportal.gov.pl">Geoportal</a></a></li>
+<li><a href="/web/gov/deklaracja-dostepnosci-serwisu-govpl">Deklaracja dostępności serwisu Gov.pl</a></li>
+</ul>
+</div>
+<div class="creative-commons">
+<div class="emails">Strony dostępne w domenie www.gov.pl mogą zawierać adresy skrzynek mailowych. Użytkownik korzystający z odnośnika będącego adresem e-mail zgadza się na przetwarzanie jego danych (adres e-mail oraz dobrowolnie podanych danych w wiadomości) w celu przesłania odpowiedzi na przesłane pytania.
+Szczegóły przetwarzania danych przez każdą z jednostek znajdują się w ich politykach przetwarzania danych osobowych.</div>
+<div class="icons">
+<span class="license-cc" aria-hidden="true"></span>
+<span class="license-by" aria-hidden="true"></span>
+</div>
+<div class="text">Wszystkie treści publikowane w serwisie są udostępniane na licencji <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/pl/">Creative Commons Uznanie Autorstwa 3.0 Polska</a>, o ile nie jest to stwierdzone inaczej.</div>
+</div>
+<div class="eu-logotypes eu-logotypes--footer">
+<img src="/img/icons/eu/fe-pc-left-pl.svg" alt="Fundusze Europejskie Logotyp:
+Na granatowym tle częściowo widoczne trzy gwiazdki
+żółta, biała i czerwona obok napis
+European, funds digital of Poland." class="eu-funds-logo">
+<img src="/img/icons/eu/rp-left-pl.svg" alt="biało-czerwona flaga polska obok napis Rzeczpospolita Polska Logotyp" class="rp-logo">
+<img src="/img/icons/eu/eu-efrp-left-pl.svg" alt="z lewej strony napis Unia Europejska Logotyp. Europejski Fundusz Rozwoju Regionalnego. po prawej strony na granatowym tle 12 żółtych gwiazdek tworzących okrąg flaga Unii Europejskiej" class="eu-logo-left">
+<img src="/img/icons/eu/eu-efrp-right-pl.svg" alt="z lewej strony napis Unia Europejska Logotyp. Europejski Fundusz Rozwoju Regionalnego. po prawej strony na granatowym tle 12 żółtych gwiazdek tworzących okrąg flaga Unii Europejskiej" class="eu-logo-right">
+</div>
 </div>
 </footer>
-<script src="/scripts/govpl_template.js?locale=pl_PL"></script>
 <script src="/scripts/body_end.js"></script>
 <noscript>
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZ2N3NZ"
