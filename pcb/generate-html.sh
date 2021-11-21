@@ -81,3 +81,9 @@ if [ ${#warnings[@]} -gt 0 ]; then
   echo "Missing/short DOB:"
   printf '\t%s\n' "${warnings[@]}"
 fi
+
+warnings=($(qsv search -s gender -v male html/current.csv | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "Missing gender:"
+  printf '\t%s\n' "${warnings[@]}"
+fi

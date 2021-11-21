@@ -21,10 +21,10 @@ module.exports = (...positions) => {
       }
       BIND(COALESCE(?p39start, ?cabinetStart, ?termStart) AS ?start)
       BIND(COALESCE(?p39end, ?cabinetEnd, ?termEnd) AS ?end)
-      FILTER(BOUND(?start) && (!BOUND(?end) || ?end > NOW()))
+      FILTER( (BOUND(?start) && (?start < NOW())) && (!BOUND(?end) || ?end > NOW()))
       SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
     }
     # ${new Date().toISOString()}
-    ORDER BY ?positionLabel ?personLabel ?start`
+    ORDER BY ?position ?person ?start ?ps`
 }
 
