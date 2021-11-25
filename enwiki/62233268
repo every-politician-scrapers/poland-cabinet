@@ -1,0 +1,137 @@
+{
+  "title": "Kamil Bortniczuk",
+  "pageID": 62233268,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Members of the Polish Sejm 2019–2023",
+    "Members of the Polish Sejm 2015–2019",
+    "21st-century Polish politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kamil Bortniczuk (born 11 June 1983 in Głuchołazy) – is a Polish politician, member of the VIII and IX Sejm as a member of the Agreement political party, within the Law and Justice parliamentary club as part of the United Right coalition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sejm"
+                },
+                {
+                  "text": "Agreement",
+                  "type": "internal",
+                  "page": "Agreement (political party)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Law and Justice"
+                },
+                {
+                  "text": "United Right",
+                  "type": "internal",
+                  "page": "United Right (Poland)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kamil Bortniczuk"
+                ]
+              }
+            },
+            {
+              "text": "He represents the Opole constituency.",
+              "links": [
+                {
+                  "text": "Opole constituency",
+                  "type": "internal",
+                  "page": "Opole (parliamentary constituency)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2007 he finished studies in international relations in the University of Wrocław, and in 2017 in law in the University of Gdańsk.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Wrocław"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Gdańsk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is married to Anna, and has three daughters, Milena, Łucja and Sara as well as a son, Julian."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Kamil Bortniczuk odbiera zaświadczenie o wyborze na posła IX kadencji.JPG",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Kamil_Bortniczuk_odbiera_za%C5%9Bwiadczenie_o_wyborze_na_pos%C5%82a_IX_kadencji.JPG?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Kamil_Bortniczuk_odbiera_za%C5%9Bwiadczenie_o_wyborze_na_pos%C5%82a_IX_kadencji.JPG",
+          "caption": "Kamil Bortniczuk",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Polish politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://archiwumbip.glucholazy.pl/zalaczniki/4940/K_27-05-2014_10-00-28.pdf",
+          "archive-url": "https://web.archive.org/web/20181112134950/http://archiwumbip.glucholazy.pl/zalaczniki/4940/K_27-05-2014_10-00-28.pdf",
+          "url-status": "dead",
+          "archive-date": "2018-11-12",
+          "title": "Wayback Machine",
+          "date": "2018-11-12",
+          "access-date": "2019-11-03",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://twitter.com/kamilbortniczuk",
+          "title": "Kamil Bortniczuk (@KamilBortniczuk) {{!}} Twitter",
+          "website": "twitter.com",
+          "language": "en",
+          "access-date": "2019-11-03",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "poland-politician-stub"
+        }
+      ]
+    }
+  ]
+}

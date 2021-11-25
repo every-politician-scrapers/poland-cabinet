@@ -1,0 +1,178 @@
+{
+  "title": "Tadeusz Kościński",
+  "pageID": 64821204,
+  "categories": [
+    "Living people",
+    "1956 births",
+    "Place of birth missing (living people)",
+    "Finance Ministers of Poland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tadeusz Kościński (born 9 December 1956) is a Polish politician.",
+              "links": [
+                {
+                  "text": "Polish",
+                  "type": "internal",
+                  "page": "Poland"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tadeusz Kościński"
+                ]
+              }
+            },
+            {
+              "text": ", he serves as Minister of Finance in the second cabinet of Mateusz Morawiecki.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Poland)"
+                },
+                {
+                  "text": "second cabinet of Mateusz Morawiecki",
+                  "type": "internal",
+                  "page": "Second Cabinet of Mateusz Morawiecki"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Polish politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2020",
+          "template": "update"
+        },
+        {
+          "df": "yes",
+          "year": "1956",
+          "month": "12",
+          "day": "9",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2019",
+            "11",
+            "15"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Tadeusz Kościński.jpg"
+          },
+          "office": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Poland)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "15 November 2019"
+          },
+          "primeminister": {
+            "text": "Mateusz Morawiecki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mateusz Morawiecki"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jerzy Kwieciński",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jerzy Kwieciński"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 9, 1956"
+          },
+          "birth_place": {
+            "text": "London, United Kingdom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "London"
+              },
+              {
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "15 November 2019",
+          "title": "President appoints new cabinet",
+          "work": "The First News",
+          "url": "https://www.thefirstnews.com/article/president-pm-address-new-cabinet-8714",
+          "url-status": "live",
+          "access-date": "11 August 2020",
+          "archive-url": "https://web.archive.org/web/20191218195907/https://www.thefirstnews.com/article/president-pm-address-new-cabinet-8714",
+          "archive-date": "18 December 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tadeusz Kościński",
+          "url": "https://www.gov.pl/web/finanse/tadeusz-koscinski",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200309164421/https://www.gov.pl/web/finanse/tadeusz-koscinski",
+          "archive-date": "9 March 2020",
+          "access-date": "11 August 2020",
+          "website": "gov.pl",
+          "language": "pl",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "ministers of finance of the republic of poland"
+        },
+        {
+          "template": "cabinet of mateusz morawiecki"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "poland-politician-stub"
+        }
+      ]
+    }
+  ]
+}
