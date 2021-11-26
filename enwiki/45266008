@@ -1220,8 +1220,11 @@
                 },
                 {
                   "text": "Land Affair",
-                  "type": "internal",
-                  "page": ":pl:Afera gruntowa"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "pl"
+                  }
                 }
               ]
             },

@@ -326,6 +326,13 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Alfred Wierzbicki",
+          "lan1": "pl",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "\"Obawiam się najgorszego typu indoktrynacji\". Jakie będą rządy Przemysława Czarnka w ministerstwie edukacji i nauki?",

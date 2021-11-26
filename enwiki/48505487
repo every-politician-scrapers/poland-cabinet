@@ -169,6 +169,12 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Piotr Gliński\nJarosław Gowin"
+          ],
+          "template": "ublist"
+        },
+        {
           "year": "1968",
           "month": "06",
           "day": "20",
@@ -262,17 +268,7 @@
             "text": "Alongside"
           },
           "1namedata1": {
-            "text": "Piotr Gliński\nJarosław Gowin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Piotr Gliński"
-              },
-              {
-                "type": "internal",
-                "page": "Jarosław Gowin"
-              }
-            ]
+            "text": "Piotr Gliński\nJarosław Gowin"
           },
           "primeminister1": {
             "text": "Beata Szydło",
@@ -569,20 +565,6 @@
                   "page": "Germans"
                 }
               ]
-            },
-            {
-              "text": "The Times of Israel also reported in 2017 that Morawiecki has \"Jewish roots\", however this claim has not been confirmed.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Times of Israel"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Times of Israel"
-                ]
-              }
             }
           ]
         },
@@ -727,16 +709,6 @@
           "website": "Wprost",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "url": "https://www.timesofisrael.com/poland-appoints-ex-banker-with-jewish-roots-as-prime-minister/",
-          "title": "Poland appoints ex-banker with Jewish roots as prime minister",
-          "author": "JTA",
-          "newspaper": "Times of Israel",
-          "date": "8 December 2017",
-          "access-date": "8 November 2019",
-          "template": "citation",
-          "type": "news"
         },
         {
           "url": "http://www.gazetaprawna.pl/artykuly/1090531,kim-jest-mateusz-morawiecki.html",
@@ -1373,12 +1345,14 @@
         {
           "sentences": [
             {
-              "text": "Od 15 September 2020, Wojewódzki sąd administracyjny (administrative court) (:pl:Wojewódzki sąd administracyjny) in Warsaw ruled that the decision of Prime Minister Mateusz Morawiecki to hold the elections only by postal vote on 10 May 2020 was a \"gross violation of the law and was issued without [legal] grounds\" and violated article 7 of the Polish Constitution, article 157, paragraph 1 and article 187, paragraph 1 and 2 of the Electoral Code.",
+              "text": "Od 15 September 2020, Wojewódzki sąd administracyjny (administrative court) (Wojewódzki sąd administracyjny) in Warsaw ruled that the decision of Prime Minister Mateusz Morawiecki to hold the elections only by postal vote on 10 May 2020 was a \"gross violation of the law and was issued without [legal] grounds\" and violated article 7 of the Polish Constitution, article 157, paragraph 1 and article 187, paragraph 1 and 2 of the Electoral Code.",
               "links": [
                 {
-                  "text": ":pl:Wojewódzki sąd administracyjny",
-                  "type": "internal",
-                  "page": ":pl:Wojewódzki sąd administracyjny"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "pl"
+                  }
                 },
                 {
                   "type": "internal",
@@ -1387,7 +1361,7 @@
               ],
               "formatting": {
                 "italic": [
-                  ":pl:Wojewódzki sąd administracyjny"
+                  "Wojewódzki sąd administracyjny"
                 ]
               }
             },
@@ -1865,8 +1839,7 @@
               "url": "https://wikipedia.org/wiki/Special:Redirect/file/Spotkanie_z_wiceprezydentem_Stan%C3%B3w_Zjednoczonych.jpg",
               "caption": {}
             }
-          ],
-          "pos": "State-visits gallery"
+          ]
         }
       ]
     },
