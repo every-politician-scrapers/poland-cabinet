@@ -565,6 +565,20 @@
                   "page": "Germans"
                 }
               ]
+            },
+            {
+              "text": "The Times of Israel also reported in 2017 that Morawiecki has \"Jewish roots\", however this claim has not been confirmed.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Times of Israel"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Times of Israel"
+                ]
+              }
             }
           ]
         },
@@ -709,6 +723,16 @@
           "website": "Wprost",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.timesofisrael.com/poland-appoints-ex-banker-with-jewish-roots-as-prime-minister/",
+          "title": "Poland appoints ex-banker with Jewish roots as prime minister",
+          "author": "JTA",
+          "newspaper": "Times of Israel",
+          "date": "8 December 2017",
+          "access-date": "8 November 2019",
+          "template": "citation",
+          "type": "news"
         },
         {
           "url": "http://www.gazetaprawna.pl/artykuly/1090531,kim-jest-mateusz-morawiecki.html",
