@@ -133,69 +133,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Members of Polish Sejm 2005-2007",
-            "links": [
-              {
-                "text": "Members of Polish Sejm 2005-2007",
-                "type": "internal",
-                "page": "List of Sejm members (2005–2007)"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "lawandjustice-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Michał Wójcik - parliamentary page - includes declarations of interest, voting record, and transcripts of speeches.",
-            "links": [
-              {
-                "text": "Michał Wójcik - parliamentary page",
-                "type": "external",
-                "site": "https://web.archive.org/web/20060805125958/http://www.sejm.gov.pl/poslowie/posel5/430.htm"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

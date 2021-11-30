@@ -276,40 +276,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "mateusz morawiecki cabinet"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "lawandjustice-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Parliamentary profile",
-            "links": [
-              {
-                "text": "Parliamentary profile",
-                "type": "external",
-                "site": "http://www.sejm.gov.pl/Sejm7.nsf/posel.xsp?id=516"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

@@ -152,27 +152,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "ministers of finance of the republic of poland"
-        },
-        {
-          "template": "cabinet of mateusz morawiecki"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "poland-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -119,15 +119,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "poland-politician-stub"
-        }
-      ]
     }
   ]
 }
