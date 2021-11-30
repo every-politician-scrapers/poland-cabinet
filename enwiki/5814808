@@ -159,12 +159,14 @@
             "text": "13 October 2009"
           },
           "successor2": {
-            "text": ":pl:Paweł Wojtunik",
+            "text": "Paweł Wojtunik",
             "links": [
               {
-                "text": ":pl:Paweł Wojtunik",
-                "type": "internal",
-                "page": ":pl:Paweł Wojtunik"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "pl"
+                }
               }
             ]
           },

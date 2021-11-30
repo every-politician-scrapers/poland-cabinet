@@ -169,6 +169,12 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Piotr Gliński\nJarosław Gowin"
+          ],
+          "template": "ublist"
+        },
+        {
           "year": "1968",
           "month": "06",
           "day": "20",
@@ -262,17 +268,7 @@
             "text": "Alongside"
           },
           "1namedata1": {
-            "text": "Piotr Gliński\nJarosław Gowin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Piotr Gliński"
-              },
-              {
-                "type": "internal",
-                "page": "Jarosław Gowin"
-              }
-            ]
+            "text": "Piotr Gliński\nJarosław Gowin"
           },
           "primeminister1": {
             "text": "Beata Szydło",
