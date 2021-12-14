@@ -50,7 +50,7 @@ qsv join person $TMPFILE id $BIO_CSV |
   qsv sort -N -s index |
   qsv select title,name,person,start,end,gender,dob,dod,image,enwiki,prev,next |
   qsv rename position,person,personID,start,end,gender,DOB,DOD,image,enwiki,prev,next > $EXTD_21
-qsv select \!prev $EXTD_21 | qsv select \!next > html/holders21.csv
+qsv select \!prev $EXTD_21 | qsv select \!next | uniq > html/holders21.csv
 
 # Generate current.csv
 qsv search -s end -v . html/holders21.csv | qsv select \!end > html/current.csv
