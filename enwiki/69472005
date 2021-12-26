@@ -158,10 +158,10 @@
       ],
       "references": [
         {
+          "url": "https://www.sejm.gov.pl/sejm9.nsf/posel.xsp?id=333",
+          "title": "Łukasz Schreiber",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     }
