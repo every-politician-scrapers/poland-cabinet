@@ -234,20 +234,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.pap.pl/aktualnosci/news%2C495126%2Cprezydent-odwolal-elzbiete-witek-z-urzedu-szefa-mswia.html",
-          "title": "Prezydent odwołał Elżbietę Witek z urzędu szefa MSWiA",
-          "language": "pl",
-          "work": "PAP.pl",
-          "publisher": "Polska Agencja Prasowa",
-          "first": "Wiktoria",
-          "last": "Nicałek",
-          "date": "August 9, 2019",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

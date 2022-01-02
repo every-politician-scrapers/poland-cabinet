@@ -153,26 +153,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Jacek Sasin",
-          "url": "http://www.jsasin.pl",
-          "accessdate": "24 November 2019",
-          "language": "pl-PL",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Jacek Sasin",
-          "url": "https://www.premier.gov.pl/ludzie/jacek-sasin-0.html",
-          "website": "Kancelaria Prezesa Rady Ministrów",
-          "accessdate": "24 November 2019",
-          "language": "pl",
-          "date": "13 November 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
