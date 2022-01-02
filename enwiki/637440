@@ -547,50 +547,6 @@
             "text": "[[image:GEO St-George Victory Order BAR.svg|40px|St. George's Order of Victory]]"
           }
         }
-      ],
-      "references": [
-        {
-          "date": "13 November 2016",
-          "title": "Jarosław Kaczyński zapowiedziany jako Naczelnik Państwa",
-          "url": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-zapowiedziany-jako-naczelnik-panstwa/jvest9",
-          "access-date": "6 November 2020",
-          "website": "Onet Wiadomości",
-          "language": "pl",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Śpiewak",
-          "first": "Jan",
-          "date": "27 October 2019",
-          "title": "Jarosław Kaczyński, czyli Naczelnik naszych czasów - ranking najbardziej wpływowych",
-          "url": "https://www.wprost.pl/tygodnik/10264563/jaroslaw-kaczynski-czyli-naczelnik-naszych-czasow-ranking-najbardziej-wplywowych.html",
-          "access-date": "6 November 2020",
-          "website": "Wprost",
-          "language": "pl",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "24 September 2020",
-          "title": "Czarnecki komentuje zmiany w ZP: Kaczyński jak Piłsudski",
-          "url": "https://www.dorzeczy.pl/kraj/154756/czarnecki-komentuje-zmiany-w-zp-kaczynski-jak-pilsudski.html",
-          "access-date": "6 November 2020",
-          "website": "Do Rzeczy",
-          "language": "pl",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "17 March 2020",
-          "title": "Sienkiewicz o Kaczyńskim: \"Naczelnik Państwa\" w sytuacji kryzysowej znika. Tchórz",
-          "url": "https://wiadomosci.dziennik.pl/polityka/artykuly/6464104,sienkiewicz-kaczynski-koronawirus-naczelnik.html",
-          "access-date": "6 November 2020",
-          "website": "wiadomosci.dziennik.pl",
-          "language": "pl",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

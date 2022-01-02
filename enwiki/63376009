@@ -79,45 +79,6 @@
           "description": "Polish politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.sejm.gov.pl/sejm9.nsf/posel.xsp?id=047&type=A",
-          "title": "Michał Cieślak",
-          "website": "www.sejm.gov.pl",
-          "access-date": "2020-03-14",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://parlament2015.pkw.gov.pl/349_Wyniki_Sejm.html",
-          "title": "PKW {{!}} Wybory do Sejmu RP i Senatu RP",
-          "website": "parlament2015.pkw.gov.pl",
-          "access-date": "2020-03-14",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/komitet/26079/sejm/okr/33",
-          "title": "Wybory do Sejmu i Senatu Rzeczypospolitej Polskiej 2019 r.",
-          "website": "sejmsenat2019.pkw.gov.pl",
-          "language": "pl",
-          "access-date": "2020-03-14",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Więcek",
-          "first": "Paweł",
-          "date": "2020-10-06",
-          "title": "Świętokrzyski poseł Porozumienia Michał Cieślak powołany na ministra - członka Rady Ministrów w Kancelarii Prezesa Rady Ministrów",
-          "url": "https://echodnia.eu/swietokrzyskie/swietokrzyski-posel-porozumienia-michal-cieslak-powolany-na-ministra-czlonka-rady-ministrow-w-kancelarii-prezesa-rady-ministrow/ar/c1-15218806",
-          "access-date": "2020-10-06",
-          "website": "Echo Dnia Świętokrzyskie",
-          "language": "pl-PL",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -399,52 +399,6 @@
             "text": "Zbigniew Ziobro signature.jpg"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://wiadomosci.gazeta.pl/wiadomosci/1,114873,4425149.html",
-          "title": "Szokujące przecieki z przesłuchania Kaczmarka",
-          "date": "August 22, 2007",
-          "website": "gazetapl",
-          "trans-title": "Shocking leaks from Kaczmarek's interrogation",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://wiadomosci.gazeta.pl/wiadomosci/1,114873,4385041.html",
-          "title": "Lepper: To Ziobro rządził dyktafonem, nie odwrotnie",
-          "date": "August 13, 2007",
-          "website": "gazetapl",
-          "trans-title": "Lepper: It was Ziobro who ruled the recorder, not the other way around",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://pe2009.pkw.gov.pl/PUE/PL/WYN/M/index_pos.htm",
-          "title": "Wybory do Parlamentu Europejskiego 2009",
-          "website": "pe2009.pkw.gov.pl",
-          "trans-title": "2009 European Parliament elections",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -125,32 +125,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "15 November 2019",
-          "title": "President appoints new cabinet",
-          "work": "The First News",
-          "url": "https://www.thefirstnews.com/article/president-pm-address-new-cabinet-8714",
-          "url-status": "live",
-          "access-date": "11 August 2020",
-          "archive-url": "https://web.archive.org/web/20191218195907/https://www.thefirstnews.com/article/president-pm-address-new-cabinet-8714",
-          "archive-date": "18 December 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Tadeusz Kościński",
-          "url": "https://www.gov.pl/web/finanse/tadeusz-koscinski",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20200309164421/https://www.gov.pl/web/finanse/tadeusz-koscinski",
-          "archive-date": "9 March 2020",
-          "access-date": "11 August 2020",
-          "website": "gov.pl",
-          "language": "pl",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

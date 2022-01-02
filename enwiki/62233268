@@ -94,28 +94,6 @@
           "description": "Polish politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "http://archiwumbip.glucholazy.pl/zalaczniki/4940/K_27-05-2014_10-00-28.pdf",
-          "archive-url": "https://web.archive.org/web/20181112134950/http://archiwumbip.glucholazy.pl/zalaczniki/4940/K_27-05-2014_10-00-28.pdf",
-          "url-status": "dead",
-          "archive-date": "2018-11-12",
-          "title": "Wayback Machine",
-          "date": "2018-11-12",
-          "access-date": "2019-11-03",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://twitter.com/kamilbortniczuk",
-          "title": "Kamil Bortniczuk (@KamilBortniczuk) {{!}} Twitter",
-          "website": "twitter.com",
-          "language": "en",
-          "access-date": "2019-11-03",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
