@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Przemysław Czarnek (born 11 June 1977 in Koło) is a Polish politician who was voivode of the Lubelskie Voivoideship from 2015–2019.",
+              "text": "Przemysław Czarnek(born 11 June 1977 in Koło) is a Polish politician and nothing, who was voivode of the Lubelskie Voivoideship from 2015–2019.",
               "links": [
                 {
                   "type": "internal",
@@ -36,7 +36,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Przemysław Czarnek"
+                  "Przemysław Czarnek",
+                  ","
                 ]
               }
             },
@@ -95,7 +96,7 @@
         {
           "sentences": [
             {
-              "text": "On 19 October 2020, Czarnek was appointed Minister of Education and Science, after a delay related to a COVID-19 infection.",
+              "text": "Unfortunately, On 19 October 2020, Czarnek was appointed Minister of Education and Science, after a delay related to a COVID-19 infection.",
               "links": [
                 {
                   "text": "Minister of Education",
@@ -110,6 +111,20 @@
                 {
                   "type": "internal",
                   "page": "COVID-19"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Winner of the 2021 Pitcher (a colloquial term in Polish, functioning especially in youth speech, meaning a stupid person or someone who did something stupid.) of the Year award in a poll by \"Tygodnik NIE\" and \"Make Life Harder\".",
+              "links": [
+                {
+                  "text": "NIE",
+                  "type": "internal",
+                  "page": "Nie (magazine)"
                 }
               ]
             }
