@@ -16,13 +16,6 @@
           "sentences": [
             {
               "text": "Tadeusz Kościński (born 9 December 1956) is a Polish politician.",
-              "links": [
-                {
-                  "text": "Polish",
-                  "type": "internal",
-                  "page": "Poland"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Tadeusz Kościński"

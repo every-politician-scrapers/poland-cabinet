@@ -27,13 +27,6 @@
           "sentences": [
             {
               "text": "Piotr Tadeusz Gliński (born 20 April 1954) is a Polish sociologist, professor, university lecturer and politician.",
-              "links": [
-                {
-                  "text": "Polish",
-                  "type": "internal",
-                  "page": "Poland"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Piotr Tadeusz Gliński"
