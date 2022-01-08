@@ -1,14 +1,24 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q3738855,Cabinet of Jerzy Buzek,1997-01-01,9,1997-01-01,9,2001-10-01,10,2001-01-01,9,Q1338983,Cabinet of Poland,,,Q2932340,Cabinet of Cimoszewicz,Q3738480,Cabinet of Leszek Miller,Q2932340,Cabinet of Cimoszewicz,,
-,Q3738480,Cabinet of Leszek Miller,2001-10-19,11,2001-01-01,9,2004-05-02,11,2004-01-01,9,Q1338983,Cabinet of Poland,,,Q3738855,Cabinet of Jerzy Buzek,Q429249,First Cabinet of Marek Belka,Q3738855,Cabinet of Jerzy Buzek,,
-,Q14624910,Second Cabinet of Marek Belka,2004-01-01,9,2004-01-01,9,2005-10-01,10,2005-01-01,9,Q1338983,Cabinet of Poland,,,Q429249,First Cabinet of Marek Belka,Q924905,Cabinet of Kazimierz Marcinkiewicz,Q429249,First Cabinet of Marek Belka,,
-,Q429249,First Cabinet of Marek Belka,2004-05-02,11,,,2004-06-11,11,,,Q1338983,Cabinet of Poland,,,Q3738480,Cabinet of Leszek Miller,Q14624910,Second Cabinet of Marek Belka,Q3738480,Cabinet of Leszek Miller,,
-,Q924905,Cabinet of Kazimierz Marcinkiewicz,2005-01-01,9,2005-01-01,9,2006-07-01,10,2006-01-01,9,Q1338983,Cabinet of Poland,,,Q14624910,Second Cabinet of Marek Belka,Q1720028,Cabinet of Jarosław Kaczyński,Q14624910,Second Cabinet of Marek Belka,,
-,Q1720028,Cabinet of Jarosław Kaczyński,2006-07-19,11,2006-01-01,9,2007-11-16,11,2007-01-01,9,Q1338983,Cabinet of Poland,,,Q924905,Cabinet of Kazimierz Marcinkiewicz,Q1720412,First Cabinet of Donald Tusk,Q924905,Cabinet of Kazimierz Marcinkiewicz,Q1720412,First Cabinet of Donald Tusk
-,Q1720412,First Cabinet of Donald Tusk,2007-11-16,11,,,2011-11-18,11,,,Q1338983,Cabinet of Poland,,,Q1720028,Cabinet of Jarosław Kaczyński,Q1720414,Second Cabinet of Donald Tusk,,,,
-,Q1720414,Second Cabinet of Donald Tusk,2011-11-18,11,2011-01-01,9,2014-09-22,11,2014-09-22,11,Q1338983,Cabinet of Poland,,,Q1720412,First Cabinet of Donald Tusk,Q18108883,Cabinet of Ewa Kopacz,Q1720412,First Cabinet of Donald Tusk,Q18108883,Cabinet of Ewa Kopacz
-,Q18108883,Cabinet of Ewa Kopacz,2014-09-22,11,2014-09-22,11,2015-11-16,11,,,Q1338983,Cabinet of Poland,,,Q1720414,Second Cabinet of Donald Tusk,Q21406124,Cabinet of Beata Szydło,Q1720414,Second Cabinet of Donald Tusk,Q21406124,Cabinet of Beata Szydło
-,Q21406124,Cabinet of Beata Szydło,2015-11-16,11,,,2017-12-11,11,,,Q1338983,Cabinet of Poland,,,Q18108883,Cabinet of Ewa Kopacz,Q45292474,First Cabinet of Mateusz Morawiecki,Q18108883,Cabinet of Ewa Kopacz,,
-,Q21406124,Cabinet of Beata Szydło,2015-11-16,11,,,2017-12-11,11,,,Q7188,government,,,Q18108883,Cabinet of Ewa Kopacz,Q45292474,First Cabinet of Mateusz Morawiecki,Q18108883,Cabinet of Ewa Kopacz,,
-,Q45292474,First Cabinet of Mateusz Morawiecki,2017-12-11,11,,,2019-11-15,11,2019-11-15,11,Q1338983,Cabinet of Poland,,,Q21406124,Cabinet of Beata Szydło,,,Q21406124,Cabinet of Beata Szydło,Q75110838,Second Cabinet of Mateusz Morawiecki
-,Q75110838,Second Cabinet of Mateusz Morawiecki,2019-11-15,11,,,,,,,Q1338983,Cabinet of Poland,,,,,,,Q45292474,First Cabinet of Mateusz Morawiecki,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q5015530,Cabinet of Leon Kozłowski,1934-05-01,10,1934-01-01,9,1935-03-01,10,1935-01-01,9,,,,,,,,
+,Q7443149,Second Cabinet of Władysław Sikorski,1939-01-01,9,1939-01-01,9,1940-01-01,9,,,,,,,,,,
+,Q5015566,Cabinet of Tadeusz Komorowski,1947-01-01,9,1947-01-01,9,1949-01-01,9,,,,,,,,,,
+,Q5015561,Cabinet of Stanisław Mackiewicz,1954-01-01,9,1954-01-01,9,1955-01-01,9,,,,,,,,,,
+,Q5015518,Cabinet of Hugon Hanke,1955-01-01,9,1955-01-01,9,1955-01-01,9,,,,,,,,,,
+,Q5452583,First Cabinet of Edward Szczepanik,1986-05-29,11,,,1989-01-01,9,,,,,,,,,,
+,Q5015508,Cabinet of Czesław Kiszczak,1989-01-01,9,1989-01-01,9,1989-01-01,9,,,,,,,,,,
+,Q5015567,Cabinet of Tadeusz Mazowiecki,1989-01-01,9,1989-01-01,9,1991-01-01,10,1991-01-01,9,,,,,Q9325425,Q9325425,,
+,Q9325396,Cabinet of Jan Olszewski,1991-01-01,9,,,1992-07-01,10,,,,,,,Q9325395,Q9325395,Q9325386,Cabinet of Hanna Suchocka
+,Q5452585,First Cabinet of Waldemar Pawlak,1992-06-01,10,1992-06-05,11,1992-07-01,10,1992-07-10,11,,,,,,,,
+,Q9325386,Cabinet of Hanna Suchocka,1992-07-01,10,,,1993-10-01,10,,,,,,,Q9325396,Cabinet of Jan Olszewski,,
+,Q3738855,Cabinet of Jerzy Buzek,1997-01-01,9,1997-01-01,9,2001-10-01,10,2001-01-01,9,Q2932340,Cabinet of Cimoszewicz,Q3738480,Cabinet of Leszek Miller,Q2932340,Cabinet of Cimoszewicz,,
+,Q3738480,Cabinet of Leszek Miller,2001-10-19,11,2001-01-01,9,2004-05-02,11,2004-01-01,9,Q3738855,Cabinet of Jerzy Buzek,Q429249,First Cabinet of Marek Belka,Q3738855,Cabinet of Jerzy Buzek,,
+,Q14624910,Second Cabinet of Marek Belka,2004-01-01,9,2004-01-01,9,2005-10-01,10,2005-01-01,9,Q429249,First Cabinet of Marek Belka,Q924905,Cabinet of Kazimierz Marcinkiewicz,Q429249,First Cabinet of Marek Belka,,
+,Q429249,First Cabinet of Marek Belka,2004-05-02,11,,,2004-06-11,11,,,Q3738480,Cabinet of Leszek Miller,Q14624910,Second Cabinet of Marek Belka,Q3738480,Cabinet of Leszek Miller,,
+,Q924905,Cabinet of Kazimierz Marcinkiewicz,2005-01-01,9,2005-01-01,9,2006-07-01,10,2006-01-01,9,Q14624910,Second Cabinet of Marek Belka,Q1720028,Cabinet of Jarosław Kaczyński,Q14624910,Second Cabinet of Marek Belka,,
+,Q1720028,Cabinet of Jarosław Kaczyński,2006-07-19,11,2006-01-01,9,2007-11-16,11,2007-01-01,9,Q924905,Cabinet of Kazimierz Marcinkiewicz,Q1720412,First Cabinet of Donald Tusk,Q924905,Cabinet of Kazimierz Marcinkiewicz,Q1720412,First Cabinet of Donald Tusk
+,Q1720412,First Cabinet of Donald Tusk,2007-11-16,11,,,2011-11-18,11,,,Q1720028,Cabinet of Jarosław Kaczyński,Q1720414,Second Cabinet of Donald Tusk,,,,
+,Q1720414,Second Cabinet of Donald Tusk,2011-11-18,11,2011-01-01,9,2014-09-22,11,2014-09-22,11,Q1720412,First Cabinet of Donald Tusk,Q18108883,Cabinet of Ewa Kopacz,Q1720412,First Cabinet of Donald Tusk,Q18108883,Cabinet of Ewa Kopacz
+,Q18108883,Cabinet of Ewa Kopacz,2014-09-22,11,2014-09-22,11,2015-11-16,11,,,Q1720414,Second Cabinet of Donald Tusk,Q21406124,Cabinet of Beata Szydło,Q1720414,Second Cabinet of Donald Tusk,Q21406124,Cabinet of Beata Szydło
+,Q21406124,Cabinet of Beata Szydło,2015-11-16,11,,,2017-12-11,11,,,Q18108883,Cabinet of Ewa Kopacz,Q45292474,First Cabinet of Mateusz Morawiecki,Q18108883,Cabinet of Ewa Kopacz,,
+,Q45292474,First Cabinet of Mateusz Morawiecki,2017-12-11,11,,,2019-11-15,11,2019-11-15,11,Q21406124,Cabinet of Beata Szydło,,,Q21406124,Cabinet of Beata Szydło,Q75110838,Second Cabinet of Mateusz Morawiecki
+,Q75110838,Second Cabinet of Mateusz Morawiecki,2019-11-15,11,,,,,,,,,,,Q45292474,First Cabinet of Mateusz Morawiecki,,
