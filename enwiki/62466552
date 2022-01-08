@@ -119,6 +119,10 @@
       ],
       "templates": [
         {
+          "small": "yes",
+          "template": "pp-semi"
+        },
+        {
           "description": "Polish alt-right politician",
           "template": "short description"
         }
