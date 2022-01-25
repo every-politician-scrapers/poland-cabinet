@@ -1,4 +1,6 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q110667878,Council of Ministers of the Latvian Soviet Socialist Republic,,,,,,,,,Q27055922,Council of People's Commisars of the Latvian SSR,,,,,,
+,Q27055922,Council of People's Commisars of the Latvian SSR,,,,,,,,,,,Q110667878,Council of Ministers of the Latvian Soviet Socialist Republic,,,,
 ,Q5015530,Cabinet of Leon Kozłowski,1934-05-01,10,1934-01-01,9,1935-03-01,10,1935-01-01,9,,,,,,,,
 ,Q7443149,Second Cabinet of Władysław Sikorski,1939-01-01,9,1939-01-01,9,1940-01-01,9,,,,,,,,,,
 ,Q5015566,Cabinet of Tadeusz Komorowski,1947-01-01,9,1947-01-01,9,1949-01-01,9,,,,,,,,,,
