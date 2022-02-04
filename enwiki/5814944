@@ -124,6 +124,9 @@
           "term_start1": {
             "text": "16 November 2015"
           },
+          "term_end1": {
+            "text": "9 January 2018"
+          },
           "president1": {
             "text": "Andrzej Duda",
             "links": [
@@ -159,6 +162,9 @@
           "term_start2": {
             "text": "16 September 2016"
           },
+          "term_end2": {
+            "text": "31 December 2016"
+          },
           "president2": {
             "text": "Andrzej Duda",
             "links": [
@@ -190,7 +196,138 @@
               }
             ]
           },
+          "successor2": {
+            "text": "Jacek Sasin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacek Sasin"
+              }
+            ]
+          },
           "office3": {
+            "text": "Minister of Environment",
+            "links": [
+              {
+                "text": "Minister of Environment",
+                "type": "internal",
+                "page": "Minister of Environment (Poland)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "9 January 2018"
+          },
+          "term_end3": {
+            "text": "15 November 2019"
+          },
+          "president3": {
+            "text": "Andrzej Duda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrzej Duda"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Mateusz Morawiecki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mateusz Morawiecki"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Jan Szyszko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jan Szyszko"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Michał Kurtyka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michał Kurtyka"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Agriculture",
+            "links": [
+              {
+                "text": "Minister of Agriculture",
+                "type": "internal",
+                "page": "Ministry of Agriculture and Rural Development (Poland) "
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "26 October 2021"
+          },
+          "president4": {
+            "text": "Andrzej Duda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrzej Duda"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Mateusz Morawiecki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mateusz Morawiecki"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Dawid Jackiewicz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dawid Jackiewicz"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Deputy Prime Minister",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "26 October 2021"
+          },
+          "president5": {
+            "text": "Andrzej Duda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrzej Duda"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Mateusz Morawiecki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mateusz Morawiecki"
+              }
+            ]
+          },
+          "office6": {
             "text": "Member of the Sejm",
             "links": [
               {
@@ -200,10 +337,10 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start6": {
             "text": "25 September 2005"
           },
-          "constituency3": {
+          "constituency6": {
             "text": "18 – Siedlce",
             "links": [
               {
