@@ -4,7 +4,7 @@
   "categories": [
     "Living people",
     "1956 births",
-    "Place of birth missing (living people)",
+    "Politicians from London",
     "Finance Ministers of Poland"
   ],
   "sections": [
@@ -23,7 +23,7 @@
               }
             },
             {
-              "text": ", he serves as Minister of Finance in the second cabinet of Mateusz Morawiecki.",
+              "text": "He served as Minister of Finance in the second cabinet of Mateusz Morawiecki from November 2019, but resigned in February 2022 after a failed tax reform.",
               "links": [
                 {
                   "text": "Minister of Finance",
@@ -38,6 +38,32 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Beginning in 1997, Kościński was a director of Bank Zachodni WBK SA."
+            },
+            {
+              "text": "He previously work for several Polish Banks, and has also held positions in the international finance sector in London, United Kingdom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "London"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "From November 2015 to November 2019, he was Undersecretary of State at the Ministry of Dvcelopment, the Ministry of Entrepreneurship and Technology and the Ministry of Finance, consequetively."
+            },
+            {
+              "text": "He has also been the representative of the Prime Minister at the Polish regulatory authority for the finance sector."
+            }
+          ]
         }
       ],
       "templates": [
@@ -46,8 +72,8 @@
           "template": "short description"
         },
         {
-          "date": "September 2020",
-          "template": "update"
+          "date": "February 2022",
+          "template": "use dmy dates"
         },
         {
           "df": "yes",
@@ -55,14 +81,6 @@
           "month": "12",
           "day": "9",
           "template": "birth date and age"
-        },
-        {
-          "list": [
-            "2019",
-            "11",
-            "15"
-          ],
-          "template": "as of"
         }
       ],
       "infoboxes": [
@@ -82,6 +100,9 @@
           },
           "term_start": {
             "text": "15 November 2019"
+          },
+          "term_end": {
+            "text": "7 February 2022"
           },
           "primeminister": {
             "text": "Mateusz Morawiecki",
