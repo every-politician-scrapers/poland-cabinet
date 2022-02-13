@@ -34,11 +34,12 @@
         {
           "sentences": [
             {
-              "text": "Mateusz Jakub Morawiecki (born 20 June 1968) is a Polish economist, historian and politician who has served as Prime Minister of Poland since 2017.",
+              "text": "Mateusz Jakub Morawiecki (born 20 June 1968) is a Polish economist, historian and politician who has served as prime minister of Poland since 2017.",
               "links": [
                 {
+                  "text": "prime minister of Poland",
                   "type": "internal",
-                  "page": "Prime Minister of Poland"
+                  "page": "prime minister of Poland"
                 }
               ],
               "formatting": {
@@ -48,14 +49,14 @@
               }
             },
             {
-              "text": "A member of Law and Justice (PiS), he previously served in the Cabinet of Prime Minister Beata Szydło as Deputy Prime Minister from 2015 to 2017, Minister of Development from 2015 to 2018 and Minister of Finance from 2016 to 2018.",
+              "text": "A member of Law and Justice (PiS), he previously served in the cabinet of prime minister Beata Szydło as deputy prime minister from 2015 to 2017, Minister of Development from 2015 to 2018 and Minister of Finance from 2016 to 2018.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Law and Justice"
                 },
                 {
-                  "text": "Cabinet",
+                  "text": "cabinet",
                   "type": "internal",
                   "page": "Cabinet of Beata Szydło"
                 },
@@ -64,7 +65,7 @@
                   "page": "Beata Szydło"
                 },
                 {
-                  "text": "Deputy Prime Minister",
+                  "text": "deputy prime minister",
                   "type": "internal",
                   "page": "Deputy Prime Minister of the Republic of Poland"
                 },
@@ -148,7 +149,7 @@
         {
           "sentences": [
             {
-              "text": "On 11 December 2017, following Prime Minister Szydło's resignation, Morawiecki was nominated to succeed her by the chief staff of the Law and Justice party, which he joined in 2016.",
+              "text": "On 11 December 2017, following prime minister Szydło's resignation, Morawiecki was nominated to succeed her by the chief staff of the Law and Justice party, which he joined in 2016.",
               "links": [
                 {
                   "type": "internal",
