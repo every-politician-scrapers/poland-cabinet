@@ -1,187 +1,23 @@
 {
-  "title": "Tomasz Grodzki",
-  "pageID": 62423988,
-  "categories": [
-    "1958 births",
-    "Members of the Senate of Poland 2015–2019",
-    "Members of the Senate of Poland 2019–2023",
-    "Polish surgeons",
-    "Civic Platform politicians",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Tomasz Paweł Grodzki (born 13 May 1958) is a Polish politician, doctor and surgeon.",
-              "formatting": {
-                "bold": [
-                  "Tomasz Paweł Grodzki"
-                ]
-              }
-            },
-            {
-              "text": "He has served as Marshal of the Senate since 12 November 2019, defeating Stanisław Karczewski with a majority of 51 votes from the Senate.",
-              "links": [
-                {
-                  "text": "Marshal of the Senate",
-                  "type": "internal",
-                  "page": "Marshal of the Senate of the Republic of Poland"
-                },
-                {
-                  "type": "internal",
-                  "page": "Stanisław Karczewski"
-                },
-                {
-                  "text": "Senate",
-                  "type": "internal",
-                  "page": "Senate of Poland"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Polish politician, doctor and surgeon",
-          "template": "short description"
-        },
-        {
-          "date": "January 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1958",
-          "month": "5",
-          "day": "13",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Tomasz Grodzki"
-          },
-          "image": {
-            "text": "File:Tomasz Grodzki Kancelaria Senatu 2019.jpg"
-          },
-          "office": {
-            "text": "Marshal of the Senate",
-            "links": [
-              {
-                "text": "Marshal of the Senate",
-                "type": "internal",
-                "page": "Marshal of the Senate of the Republic of Poland"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "12 November 2019"
-          },
-          "predecessor": {
-            "text": "Stanisław Karczewski",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stanisław Karczewski"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of Senate",
-            "links": [
-              {
-                "text": "Senate",
-                "type": "internal",
-                "page": "Senate of Poland"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Norbert Obrycki"
-          },
-          "constituency2": {
-            "text": "97 - Szczecin"
-          },
-          "term_start2": {
-            "text": "12 November 2015"
-          },
-          "office3": {
-            "text": "Member of Szczecin City Council"
-          },
-          "term_start3": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end3": {
-            "text": "2015",
-            "number": 2015
-          },
-          "birth_name": {
-            "text": "Tomasz Paweł Grodzki"
-          },
-          "birth_date": {
-            "text": "May 13, 1958"
-          },
-          "birth_place": {
-            "text": "Szczecin, Poland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Szczecin"
-              },
-              {
-                "type": "internal",
-                "page": "Poland"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Polish",
-            "links": [
-              {
-                "text": "Polish",
-                "type": "internal",
-                "page": "Poland"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Pomeranian Medical University",
-            "links": [
-              {
-                "text": "Pomeranian Medical University",
-                "type": "internal",
-                "page": "Pomeranian Medical University in Szczecin"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Joanna Grodzka"
-          },
-          "children": {
-            "text": "2 (Daughters)"
-          },
-          "party": {
-            "text": "Civic Platform",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Civic Platform"
-              }
-            ]
-          },
-          "awards": {
-            "text": "POL Polonia Restituta Kawalerski BAR.svg POL Złoty Krzyż Zasługi BAR.svg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Tomasz Grodzki",
+  "image": "File:Tomasz Grodzki Kancelaria Senatu 2019.jpg",
+  "office": "Marshal of the Senate",
+  "term_start": "12 November 2019",
+  "predecessor": "Stanisław Karczewski",
+  "office2": "Member of Senate",
+  "predecessor2": "Norbert Obrycki",
+  "constituency2": "97 - Szczecin",
+  "term_start2": "12 November 2015",
+  "office3": "Member of Szczecin City Council",
+  "term_start3": "2006",
+  "term_end3": "2015",
+  "birth_name": "Tomasz Paweł Grodzki",
+  "birth_date": "May 13, 1958",
+  "birth_place": "Szczecin, Poland",
+  "nationality": "Polish",
+  "alma_mater": "Pomeranian Medical University",
+  "spouse": "Joanna Grodzka",
+  "children": "2 (Daughters)",
+  "party": "Civic Platform",
+  "awards": "POL Polonia Restituta Kawalerski BAR.svg POL Złoty Krzyż Zasługi BAR.svg"
 }

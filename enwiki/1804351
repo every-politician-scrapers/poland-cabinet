@@ -1,127 +1,14 @@
 {
-  "title": "Konrad Szymański",
-  "pageID": 1804351,
-  "categories": [
-    "1969 births",
-    "Adam Mickiewicz University in Poznań alumni",
-    "Living people",
-    "Government ministers of Poland",
-    "Politicians from Kalisz",
-    "Law and Justice MEPs",
-    "MEPs for Poland 2004–2009",
-    "MEPs for Poland 2009–2014"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Konrad Krzysztof Szymański (born 6 December 1969) since November 2015 has been the Polish Minister for European Affairs.",
-              "formatting": {
-                "bold": [
-                  "Konrad Krzysztof Szymański"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Polish politician",
-          "template": "short description"
-        },
-        {
-          "year": "1969",
-          "month": "12",
-          "day": "6",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Konrad Szymański"
-          },
-          "image": {
-            "text": "Konrad Szymański (cropped).jpg"
-          },
-          "caption": {
-            "text": "Konrad Szymański in 2016"
-          },
-          "office": {
-            "text": "Secretary of State for European Affairs Designate"
-          },
-          "primeminister": {
-            "text": "Beata Szydło",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beata Szydło"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "November 2015"
-          },
-          "succeeding": {
-            "text": "Rafał Trzaskowski",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rafał Trzaskowski"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Rafał Trzaskowski",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rafał Trzaskowski"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "December 6, 1969"
-          },
-          "birth_place": {
-            "text": "Kalisz, Poland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kalisz"
-              },
-              {
-                "type": "internal",
-                "page": "Poland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Law and Justice",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Law and Justice"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Adam Mickiewicz University in Poznań",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adam Mickiewicz University in Poznań"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Konrad Szymański",
+  "image": "Konrad Szymański (cropped).jpg",
+  "caption": "Konrad Szymański in 2016",
+  "office": "Secretary of State for European Affairs Designate",
+  "primeminister": "Beata Szydło",
+  "term_start": "November 2015",
+  "succeeding": "Rafał Trzaskowski",
+  "predecessor": "Rafał Trzaskowski",
+  "birth_date": "December 6, 1969",
+  "birth_place": "Kalisz, Poland",
+  "party": "Law and Justice",
+  "alma_mater": "Adam Mickiewicz University in Poznań"
 }

@@ -1,224 +1,25 @@
 {
-  "title": "Mariusz Kamiński",
-  "pageID": 5814808,
-  "categories": [
-    "1965 births",
-    "Living people",
-    "People from Sochaczew",
-    "Members of the Polish Sejm 1997–2001",
-    "Members of the Polish Sejm 2001–2005",
-    "Members of the Polish Sejm 2005–2007",
-    "Members of the Polish Sejm 2007–2011",
-    "Members of the Polish Sejm 2011–2015",
-    "Members of the Polish Sejm 2015–2019",
-    "Members of the Polish Sejm 2019–2023",
-    "Government ministers of Poland",
-    "Law and Justice politicians",
-    "Commanders of the Order of Polonia Restituta",
-    "Polish politicians convicted of crimes",
-    "20th-century Polish criminals",
-    "21st-century Polish criminals",
-    "Polish atheists",
-    "Polish anti-communists"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mariusz Kamiński (born 25 September 1965 in Sochaczew) is a Polish politician who served as the head of the Central Anticorruption Bureau (CBA) from August 2006 to October 2009.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sochaczew"
-                },
-                {
-                  "type": "internal",
-                  "page": "Central Anticorruption Bureau"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mariusz Kamiński"
-                ]
-              }
-            },
-            {
-              "text": "Since 14 August 2019, he has served as the Minister of the Interior and Administration, in addition to coordinating Polish secret services, which he had done previously as a minister without portfolio.",
-              "links": [
-                {
-                  "text": "Minister of the Interior and Administration",
-                  "type": "internal",
-                  "page": "Ministry of Interior and Administration (Poland)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Polish politician (born 1965)",
-          "template": "short description"
-        },
-        {
-          "date": "October 2017",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1965",
-          "month": "09",
-          "day": "25",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mariusz Kamiński"
-          },
-          "nationality": {
-            "text": "Polish"
-          },
-          "image": {
-            "text": "Mariusz Kamiński 2019.jpg"
-          },
-          "caption": {
-            "text": "Kamiński in 2019"
-          },
-          "office": {
-            "text": "Minister of the Interior and Administration",
-            "links": [
-              {
-                "text": "Minister of the Interior and Administration",
-                "type": "internal",
-                "page": "Ministry of Interior and Administration (Poland)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 August 2019"
-          },
-          "predecessor": {
-            "text": "Elżbieta Witek",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elżbieta Witek"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mateusz Morawiecki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mateusz Morawiecki"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister without portfolio"
-          },
-          "term_start1": {
-            "text": "16 November 2015"
-          },
-          "term_end1": {
-            "text": "14 August 2019"
-          },
-          "primeminister1": {
-            "text": "Beata Szydło Mateusz Morawiecki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beata Szydło"
-              },
-              {
-                "type": "internal",
-                "page": "Mateusz Morawiecki"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Head of the Central Anticorruption Bureau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Central Anticorruption Bureau"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "3 August 2006"
-          },
-          "term_end2": {
-            "text": "13 October 2009"
-          },
-          "successor2": {
-            "text": "Paweł Wojtunik",
-            "links": [
-              {
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "pl"
-                }
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Sejm",
-            "links": [
-              {
-                "text": "Sejm",
-                "type": "internal",
-                "page": "Sejm of the Republic of Poland"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "25 September 2005"
-          },
-          "constituency3": {
-            "text": "24 – Białystok",
-            "links": [
-              {
-                "text": "24 – Białystok",
-                "type": "internal",
-                "page": "Białystok (parliamentary constituency)"
-              }
-            ]
-          },
-          "party": {
-            "text": "Law and Justice",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Law and Justice"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 25, 1965"
-          },
-          "alma_mater": {
-            "text": "University of Warsaw",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Warsaw"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Mariusz Kamiński signature 2018.jpg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mariusz Kamiński",
+  "nationality": "Polish",
+  "image": "Mariusz Kamiński 2019.jpg",
+  "caption": "Kamiński in 2019",
+  "office": "Minister of the Interior and Administration",
+  "term_start": "14 August 2019",
+  "predecessor": "Elżbieta Witek",
+  "primeminister": "Mateusz Morawiecki",
+  "office1": "Minister without portfolio",
+  "term_start1": "16 November 2015",
+  "term_end1": "14 August 2019",
+  "primeminister1": "Beata Szydło Mateusz Morawiecki",
+  "office2": "Head of the Central Anticorruption Bureau",
+  "term_start2": "3 August 2006",
+  "term_end2": "13 October 2009",
+  "successor2": "Paweł Wojtunik",
+  "office3": "Member of the Sejm",
+  "term_start3": "25 September 2005",
+  "constituency3": "24 – Białystok",
+  "party": "Law and Justice",
+  "birth_date": "September 25, 1965",
+  "alma_mater": "University of Warsaw",
+  "signature": "Mariusz Kamiński signature 2018.jpg"
 }
