@@ -1,342 +1,38 @@
 {
-  "title": "Mariusz Błaszczak",
-  "pageID": 11158917,
-  "categories": [
-    "1969 births",
-    "Living people",
-    "People from Legionowo",
-    "University of Warsaw alumni",
-    "National School of Public Administration (Poland) alumni",
-    "Law and Justice politicians",
-    "Ministers of National Defence of Poland",
-    "Interior ministers of Poland",
-    "Members of the Polish Sejm 2007–2011",
-    "Members of the Polish Sejm 2011–2015",
-    "Members of the Polish Sejm 2015–2019",
-    "Members of the Polish Sejm 2019–2023",
-    "Anti-Islam sentiment in Europe"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mariusz Błaszczak (born 19 September 1969, in Legionowo) is a Polish politician, historian, and local government representative.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Legionowo"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mariusz Błaszczak"
-                ]
-              }
-            },
-            {
-              "text": "Since 9 January 2018 Blaszczak has been the Minister of National Defence of Poland."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "November 2017",
-          "template": "more citations needed"
-        },
-        {
-          "list": [
-            "Błaszczak",
-            "Blaszczak"
-          ],
-          "lang": "Slavic",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1969",
-          "month": "09",
-          "day": "19",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "template": "ipac",
-          "transcription": "AUD,Pl-Mariusz Błaszczak.ogg,,',m,a,r,J,j,u,sz,-,',b,ł,a,sz,cz,a,k"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mariusz Błaszczak"
-          },
-          "nationality": {
-            "text": "Polish"
-          },
-          "image": {
-            "text": "Mariusz Błaszczak portret.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2015"
-          },
-          "office": {
-            "text": "Minister of National Defence",
-            "links": [
-              {
-                "text": "Minister of National Defence",
-                "type": "internal",
-                "page": "Ministry of National Defence (Poland)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "9 January 2018"
-          },
-          "president": {
-            "text": "Andrzej Duda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrzej Duda"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mateusz Morawiecki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mateusz Morawiecki"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Antoni Macierewicz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antoni Macierewicz"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of the Interior and Administration",
-            "links": [
-              {
-                "text": "Minister of the Interior and Administration",
-                "type": "internal",
-                "page": "Ministry of Interior (Poland)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "16 November 2015"
-          },
-          "term_end1": {
-            "text": "9 January 2018"
-          },
-          "president1": {
-            "text": "Andrzej Duda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrzej Duda"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Beata Szydło Mateusz Morawiecki",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beata Szydło"
-              },
-              {
-                "type": "internal",
-                "page": "Mateusz Morawiecki"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Teresa Piotrowska (Interior) Andrzej Halicki (Administration)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teresa Piotrowska"
-              },
-              {
-                "type": "internal",
-                "page": "Andrzej Halicki"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Joachim Brudziński",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joachim Brudziński"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of the Council of Ministers",
-            "links": [
-              {
-                "text": "Minister of the Council of Ministers",
-                "type": "internal",
-                "page": "Minister without portfolio"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 March 2007"
-          },
-          "term_end2": {
-            "text": "16 November 2007"
-          },
-          "president2": {
-            "text": "Lech Kaczyński",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lech Kaczyński"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Jarosław Kaczyński",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jarosław Kaczyński"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Sławomir Cytrycki",
-            "links": [
-              {
-                "text": "Sławomir Cytrycki",
-                "type": "internal",
-                "page": "Chancellery of the Prime Minister of Poland"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Zbigniew Derdziuk",
-            "links": [
-              {
-                "text": "Zbigniew Derdziuk",
-                "type": "internal",
-                "page": "First Cabinet of Donald Tusk"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Chief of the Chancellery",
-            "links": [
-              {
-                "text": "Chief of the Chancellery",
-                "type": "internal",
-                "page": "Chancellery of the Prime Minister of Poland"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "27 March 2007"
-          },
-          "term_end3": {
-            "text": "16 November 2007"
-          },
-          "primeminister3": {
-            "text": "Kazimierz Marcinkiewicz Jarosław Kaczyński",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kazimierz Marcinkiewicz"
-              },
-              {
-                "type": "internal",
-                "page": "Jarosław Kaczyński"
-              }
-            ]
-          },
-          "deputy3": {
-            "text": "Piotr Tutak",
-            "links": [
-              {
-                "text": "Piotr Tutak",
-                "type": "internal",
-                "page": "Chancellery of the Prime Minister of Poland"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Sławomir Cytrycki",
-            "links": [
-              {
-                "text": "Sławomir Cytrycki",
-                "type": "internal",
-                "page": "Chancellery of the Prime Minister of Poland"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Tomasz Arabski",
-            "links": [
-              {
-                "text": "Tomasz Arabski",
-                "type": "internal",
-                "page": "Chancellery of the Prime Minister of Poland"
-              }
-            ]
-          },
-          "party": {
-            "text": "Law and Justice",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Law and Justice"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 19, 1969"
-          },
-          "birth_place": {
-            "text": "Legionowo, Poland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Legionowo"
-              },
-              {
-                "type": "internal",
-                "page": "Poland"
-              }
-            ]
-          },
-          "website": {
-            "text": "http://mariuszblaszczak.pl/"
-          },
-          "alma_mater": {
-            "text": "University of Warsaw",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Warsaw"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Mariusz Błaszczak signature 2018.jpg"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mariusz Błaszczak",
+  "nationality": "Polish",
+  "image": "Mariusz Błaszczak portret.jpg",
+  "caption": "Official portrait, 2015",
+  "office": "Minister of National Defence",
+  "term_start": "9 January 2018",
+  "president": "Andrzej Duda",
+  "primeminister": "Mateusz Morawiecki",
+  "predecessor": "Antoni Macierewicz",
+  "office1": "Minister of the Interior and Administration",
+  "term_start1": "16 November 2015",
+  "term_end1": "9 January 2018",
+  "president1": "Andrzej Duda",
+  "primeminister1": "Beata Szydło Mateusz Morawiecki",
+  "predecessor1": "Teresa Piotrowska (Interior) Andrzej Halicki (Administration)",
+  "successor1": "Joachim Brudziński",
+  "office2": "Minister of the Council of Ministers",
+  "term_start2": "27 March 2007",
+  "term_end2": "16 November 2007",
+  "president2": "Lech Kaczyński",
+  "primeminister2": "Jarosław Kaczyński",
+  "predecessor2": "Sławomir Cytrycki",
+  "successor2": "Zbigniew Derdziuk",
+  "office3": "Chief of the Chancellery",
+  "term_start3": "27 March 2007",
+  "term_end3": "16 November 2007",
+  "primeminister3": "Kazimierz Marcinkiewicz Jarosław Kaczyński",
+  "deputy3": "Piotr Tutak",
+  "predecessor3": "Sławomir Cytrycki",
+  "successor3": "Tomasz Arabski",
+  "party": "Law and Justice",
+  "birth_date": "September 19, 1969",
+  "birth_place": "Legionowo, Poland",
+  "website": "http://mariuszblaszczak.pl/",
+  "alma_mater": "University of Warsaw",
+  "signature": "Mariusz Błaszczak signature 2018.jpg"
 }
