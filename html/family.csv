@@ -1,5 +1,6 @@
 id,name,relationship,relative,relativename
 Q1030376,Witold Sitarz,child,Q77259326,Emilia Sitarz
+Q111574804,Sebastian Kęciek,spouse,Q111726938,Izabela Kęciek
 Q1166062,Dariusz Rosati,child,Q2789894,Weronika Rosati
 Q1166062,Dariusz Rosati,spouse,Q11836904,Teresa Rosati
 Q11719272,Jan Tombiński,spouse,Q107466227,Agnieszka Tombińska
@@ -35,6 +36,7 @@ Q1683061,Janusz Korwin-Mikke,child,Q107750726,Korynna Korwin-Mikke
 Q1683061,Janusz Korwin-Mikke,spouse,Q107564268,Dominika Korwin-Mikke
 Q174491,Robert Biedroń,partner,Q28123976,Krzysztof Śmiszek
 Q19267935,Hanna Gill-Piątek,spouse,Q9359612,Tomasz Piątek
+Q19268209,Jerzy Snopek,spouse,Q111726907,Márta Gedeon
 Q19991536,Agata Kornhauser-Duda,child,Q28371905,Kinga Duda
 Q19991536,Agata Kornhauser-Duda,father,Q6307323,Julian Kornhauser
 Q19991536,Agata Kornhauser-Duda,sibling,Q20029414,Jakub Kornhauser
