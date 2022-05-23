@@ -1,8 +1,6 @@
 {
   "name": "Grzegorz Kozłowski",
-  "honorific-suffix": "Ph.D.",
-  "ambassador_from": "Poland",
-  "country": "Estonia",
+  "order": "Poland Ambassador to Estonia",
   "term_start": "14 February 2018",
   "predecessor": "Robert Filipczak",
   "birth_date": "March 31, 1974",
@@ -10,5 +8,8 @@
   "nationality": "Polish",
   "spouse": "Jolanta Kozłowska",
   "alma_mater": "University of Białystok\nWarsaw School of Economics",
-  "profession": "diplomat, economist"
+  "profession": "diplomat, economist",
+  "appointer": "Andrzej Duda",
+  "1blankname": "President",
+  "1namedata": "Kersti Kaljulaid Alar Karis"
 }
