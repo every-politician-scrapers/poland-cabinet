@@ -73,6 +73,11 @@ Q2757,Lech Kaczyński,sibling,Q55917,Jarosław Kaczyński
 Q2757,Lech Kaczyński,spouse,Q215342,Maria Kaczyńska
 Q28123976,Krzysztof Śmiszek,partner,Q174491,Robert Biedroń
 Q288532,Krystyna Bochenek,spouse,Q9151601,Andrzej Bochenek
+Q349492,Adam Gierek,child,Q19886586,Stanisława Gierek-Ciaciura
+Q349492,Adam Gierek,father,Q312185,Edward Gierek
+Q349492,Adam Gierek,mother,Q9343588,Stanisława Gierek
+Q349492,Adam Gierek,relative,Q28354437,Tatiana Gierek
+Q349492,Adam Gierek,spouse,Q9159553,Ariadna Gierek-Łapińska
 Q381185,Władysław Bartoszewski,child,Q64141216,Władysław Teofil Bartoszewski
 Q381185,Władysław Bartoszewski,spouse,Q29016561,Antonina Mijal
 Q381185,Władysław Bartoszewski,spouse,Q42290655,Zofia Bartoszewska
