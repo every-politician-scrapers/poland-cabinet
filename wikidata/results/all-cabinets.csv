@@ -21,4 +21,4 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q18108883,Cabinet of Ewa Kopacz,2014-09-22,11,2014-09-22,11,2015-11-16,11,,,Q1720414,Second Cabinet of Donald Tusk,Q21406124,Cabinet of Beata Szydło,Q1720414,Second Cabinet of Donald Tusk,Q21406124,Cabinet of Beata Szydło
 ,Q21406124,Cabinet of Beata Szydło,2015-11-16,11,,,2017-12-11,11,,,Q18108883,Cabinet of Ewa Kopacz,Q45292474,First Cabinet of Mateusz Morawiecki,Q18108883,Cabinet of Ewa Kopacz,,
 ,Q45292474,First Cabinet of Mateusz Morawiecki,2017-12-11,11,,,2019-11-15,11,2019-11-15,11,Q21406124,Cabinet of Beata Szydło,,,Q21406124,Cabinet of Beata Szydło,Q75110838,Second Cabinet of Mateusz Morawiecki
-,Q75110838,Second Cabinet of Mateusz Morawiecki,2019-11-15,11,,,,,,,,,,,Q45292474,First Cabinet of Mateusz Morawiecki,,
+,Q75110838,Second Cabinet of Mateusz Morawiecki,2019-11-15,11,,,,,,,Q45292474,First Cabinet of Mateusz Morawiecki,,,Q45292474,First Cabinet of Mateusz Morawiecki,,
