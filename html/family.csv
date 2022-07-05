@@ -38,6 +38,7 @@ Q1683061,Janusz Korwin-Mikke,spouse,Q107564268,Dominika Korwin-Mikke
 Q174491,Robert Biedroń,partner,Q28123976,Krzysztof Śmiszek
 Q19267935,Hanna Gill-Piątek,spouse,Q9359612,Tomasz Piątek
 Q19268209,Jerzy Snopek,spouse,Q111726907,Márta Gedeon
+Q19268672,Maciej Gdula,father,Q9152065,Andrzej Gdula
 Q19991536,Agata Kornhauser-Duda,child,Q28371905,Kinga Duda
 Q19991536,Agata Kornhauser-Duda,father,Q6307323,Julian Kornhauser
 Q19991536,Agata Kornhauser-Duda,sibling,Q20029414,Jakub Kornhauser
@@ -69,7 +70,7 @@ Q2757,Lech Kaczyński,father,Q328667,Rajmund Kaczyński
 Q2757,Lech Kaczyński,godparent,Q7599192,Stanisław Miedza-Tomaszewski
 Q2757,Lech Kaczyński,godparent,Q9391893,Zofia Woźnicka
 Q2757,Lech Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
-Q2757,Lech Kaczyński,sibling,Q55917,Jarosław Kaczyński
+Q2757,Lech Kaczyński,sibling,Q55917,Zosia Kaczyński
 Q2757,Lech Kaczyński,spouse,Q215342,Maria Kaczyńska
 Q28123976,Krzysztof Śmiszek,partner,Q174491,Robert Biedroń
 Q288532,Krystyna Bochenek,spouse,Q9151601,Andrzej Bochenek
@@ -115,9 +116,9 @@ Q55758,Aleksander Kwaśniewski,spouse,Q55756,Jolanta Kwaśniewska
 Q55910,Jerzy Buzek,child,Q390870,Agata Buzek
 Q55910,Jerzy Buzek,spouse,Q11763400,Ludgarda Buzek
 Q55915,Włodzimierz Cimoszewicz,child,Q9281496,Tomasz Cimoszewicz
-Q55917,Jarosław Kaczyński,father,Q328667,Rajmund Kaczyński
-Q55917,Jarosław Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
-Q55917,Jarosław Kaczyński,sibling,Q2757,Lech Kaczyński
+Q55917,Zosia Kaczyński,father,Q328667,Rajmund Kaczyński
+Q55917,Zosia Kaczyński,mother,Q3266318,Jadwiga Kaczyńska
+Q55917,Zosia Kaczyński,sibling,Q2757,Lech Kaczyński
 Q55922,Tadeusz Mazowiecki,child,Q64580822,Michał Mazowiecki
 Q55922,Tadeusz Mazowiecki,child,Q9376684,Wojciech Mazowiecki
 Q55924,Józef Oleksy,sibling,Q65190635,Wacław Oleksy
