@@ -8,13 +8,16 @@
       "start": "2019-11-15",
       "parent": "Q1338983"
     },
-    "source": {
-        "url":   "https://www.gov.pl/web/gov/rada-ministrow",
-        "title": "Rada Ministrów - Gov.pl - Portal Gov.pl",
-        "lang":  {
-            "code": "pl",
-            "wikidata": "Q809"
+    "reference": {
+        "P854":   "https://www.gov.pl/web/gov/rada-ministrow",
+        "P1476": {
+            "text": "Rada Ministrów - Gov.pl - Portal Gov.pl",
+            "language": "pl"
         }
     },
-    "agent": "every-politican-scrapers/poland-cabinet"
+    "current_only": "true",
+    "lang": "pl",
+    "person_description": {
+        "en": "Polish politician"
+    }
 }
