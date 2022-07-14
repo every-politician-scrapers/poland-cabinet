@@ -1,6 +1,8 @@
-name,position
+itemLabel,positionLabel
 Mateusz Morawiecki,Prezes Rady Ministrów
 Mateusz Morawiecki,Minister cyfryzacji
+Mariusz Błaszczak,Wiceprezes Rady Ministrów
+Mariusz Błaszczak,Minister obrony narodowej
 Piotr Gliński,Wiceprezes Rady Ministrów
 Piotr Gliński,Minister kultury i dziedzictwa narodowego
 Piotr Gliński,Przewodniczący Komitetu do spraw pożytku publicznego
@@ -9,7 +11,6 @@ Henryk Kowalczyk,Minister rolnictwa i rozwoju wsi
 Jacek Sasin,Wiceprezes Rady Ministrów
 Jacek Sasin,Minister aktywów państwowych
 Andrzej Adamczyk,Minister infrastruktury
-Mariusz Błaszczak,Minister obrony narodowej
 Kamil Bortniczuk,Minister sportu i turystyki
 Waldemar Buda,Minister rozwoju i technologii
 Przemysław Czarnek,Minister edukacji i nauki
@@ -24,6 +25,9 @@ Magdalena Rzeczkowska,Minister finansów
 Zbigniew Ziobro,Minister sprawiedliwości
 Michał Dworczyk,Minister - członek Rady Ministrów
 Michał Dworczyk,Szef Kancelarii Prezesa Rady Ministrów
+Zbigniew Hoffmann,"Minister - członek Rady Ministrów, sekretarz Komitetu Rady Ministrów do spraw Bezpieczeństwa Narodowego i spraw Obronnych"
 Łukasz Schreiber,Minister - członek Rady Ministrów
 Konrad Szymański,Minister do spraw Unii Europejskiej
+Agnieszka Ścigaj,Minister – członek Rady Ministrów
+Włodzimierz Tomaszewski,Minister – członek Rady Ministrów
 Michał Wójcik,Minister – członek Rady Ministrów

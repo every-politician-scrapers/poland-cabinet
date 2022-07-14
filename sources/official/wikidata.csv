@@ -1,29 +1,33 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
-Q11715561,Jacek Sasin,Jacek Sasin,male,1969-11-06,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q107919703,Minister aktywów państwowych,2019-11-15,Q11715561-48D9CD1A-FCA1-46D4-A1B5-583F9FBBDD4E
-Q11715561,Jacek Sasin,Jacek Sasin,male,1969-11-06,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q15051532,Wiceprezes Rady Ministrów,2019-06-04,Q11715561-577031B8-BE01-4308-A8E9-C062E38F7909
-Q11771436,Mateusz Morawiecki,Mateusz Morawiecki,male,1968-06-20,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q107919830,Minister cyfryzacji,2020-10-06,Q11771436-39D03DEC-3404-43AF-9497-8DD643E00600
-Q11771436,Mateusz Morawiecki,Mateusz Morawiecki,male,1968-06-20,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q3259469,Prezes Rady Ministrów,2017-12-11,Q11771436-3cb87835-47ad-9824-569b-1729367f9b02
-Q11778705,Michał Dworczyk,Michał Dworczyk,male,1975-07-22,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q107919931,Szef Kancelarii Prezesa Rady Ministrów,2017-12-19,Q11778705-36A37A1C-8811-4890-8C57-500DD787C18A
-Q11778705,Michał Dworczyk,Michał Dworczyk,male,1975-07-22,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q93417831,Minister - członek Rady Ministrów,2019-11-15,Q11778705-73443FD6-291B-4BF0-B4E6-BA09C3C93B72
-Q11817487,Piotr Gliński,Piotr Gliński,male,1954-04-20,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q107919945,Przewodniczący Komitetu do spraw pożytku publicznego,2019-11-15,Q11817487-9C4A003E-9F20-4723-B708-26A1F50FA53C
-Q11817487,Piotr Gliński,Piotr Gliński,male,1954-04-20,11,https://www.gov.pl/web/gov/rada-ministrow,2021-11-10,Q28976975,Minister kultury i dziedzictwa narodowego,2015-11-16,Q11817487-BE433841-C2AC-4E01-91B8-457499B862AF
-Q11817487,Piotr Gliński,Piotr Gliński,male,1954-04-20,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q15051532,Wiceprezes Rady Ministrów,2015-11-16,Q11817487-F0011A95-55AB-4E87-9197-F77CF811DD5D
-Q159472,Zbigniew Ziobro,Zbigniew Ziobro,male,1970-08-18,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q28048774,Minister sprawiedliwości,2015-11-16,Q159472-1ed2b27d-4ffc-92d5-33c3-f1118ce9db14
-Q1748055,Mariusz Błaszczak,Mariusz Błaszczak,male,1969-09-19,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q30960711,Minister obrony narodowej,2019-11-15,Q1748055-7DDDC5B5-1466-46F2-9B9B-DAF048CF2F10
-Q21282013,Waldemar Buda,Waldemar Buda,male,1982-09-21,11,https://www.gov.pl/web/gov/rada-ministrow,2022-04-29,Q101246734,Minister rozwoju i technologii,2022-04-08,Q21282013-46a58b4a-47c6-e57c-3480-b0a10f560e75
-Q21282109,Grzegorz Puda,Grzegorz Puda,male,1982-07-13,11,https://www.gov.pl/web/gov/rada-ministrow,2021-11-15,Q109587291,Minister funduszy i polityki regionalnej,2021-10-26,Q21282109-a84503bd-4c1a-a900-10cb-84a1022c17aa
-Q21282120,Łukasz Schreiber,Łukasz Schreiber,male,1987-05-26,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q93417831,Minister - członek Rady Ministrów,2019-11-15,Q21282120-0FCC2F45-2189-4C19-B032-68AD307A78C5
-Q22350992,Przemysław Czarnek,Przemysław Czarnek,male,1977-06-11,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q25711733,Minister edukacji i nauki,2020-10-19,Q22350992-6B57C37D-B73B-4F6B-8F50-B2C678F6D5AE
-Q381575,Andrzej Adamczyk,Andrzej Adamczyk,male,1959-01-04,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q107919732,Minister infrastruktury,2019-11-15,Q381575-ED968F78-C161-49C3-8302-C6ECD5FD8F92
-Q3845166,Mariusz Kamiński,Mariusz Kamiński,male,1965-09-25,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q93417831,Koordynator służb specjalnych,2015-11-16,Q3845166-5461AF2A-64E5-4126-BEEF-DE5C588F50B2
-Q3845166,Mariusz Kamiński,Mariusz Kamiński,male,1965-09-25,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q25598713,Minister Spraw Wewnętrznych i Administracji,2019-11-15,Q3845166-9FC87518-2258-476F-A98D-CA21FB49045A
-Q432110,Henryk Kowalczyk,Henryk Kowalczyk,male,1956-07-15,11,https://www.gov.pl/web/gov/rada-ministrow,2021-11-15,Q107919710,Minister rolnictwa i rozwoju wsi,2021-10-26,Q432110-88EA9B90-0632-48B1-9D43-C1B1EEF8F4A0
-Q432110,Henryk Kowalczyk,Henryk Kowalczyk,male,1956-07-15,11,https://www.gov.pl/web/gov/rada-ministrow,2021-11-10,Q15051532,Wiceprezes Rady Ministrów,2021-10-26,Q432110-B68B54C7-E362-40A7-B837-78FA39A2EAAB
-Q440788,Konrad Szymański,Konrad Szymański,male,1969-12-06,11,https://www.gov.pl/web/gov/rada-ministrow,2021-11-10,Q11781474,Minister do spraw Unii Europejskiej,2019-11-15,Q440788-BBEC1AFB-26E3-48D2-A7BE-B1CFFC8FD79A
-Q48842537,Marlena Maląg,Marlena Maląg,female,1964-11-02,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q25919989,Minister rodziny i polityki społecznej,2019-11-15,Q48842537-C75F9F0E-A140-4DD7-B28E-6618A3E55D9B
-Q48862466,Adam Niedzielski,Adam Niedzielski,male,1973-11-19,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q57775575,Minister zdrowia,2020-08-26,Q48862466-5129FB94-7D8A-4FA6-B7B4-1A33DB10A77E
-Q55339828,Anna Moskwa,Anna Moskwa,female,1979-05-27,11,https://www.gov.pl/web/gov/rada-ministrow,2021-11-15,Q107919643,Minister klimatu i środowiska,2020-10-26,Q55339828-43D4F21C-041A-4FA5-BC72-0E988AC735C5
-Q60833165,Kamil Bortniczuk,Kamil Bortniczuk,male,1983-06-11,11,https://www.gov.pl/web/gov/rada-ministrow,2021-11-10,Q45119834,Minister sportu i turystyki,2021-10-26,Q60833165-D53ED1F3-DB2E-42C1-8B62-254E029A5E94
-Q6836077,Michał Wójcik,Michał Wójcik,male,1971-04-17,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q93417831,Minister – członek Rady Ministrów,2020-10-06,Q6836077-8BCEEB3B-8251-4832-AFDB-93DE2EF2C436
-Q87408679,Magdalena Rzeczkowska,Magdalena Rzeczkowska,female,1974-04-22,11,https://www.gov.pl/web/gov/rada-ministrow,2022-04-29,Q11781525,Minister finansów,2022-04-26,Q87408679-cc5c0c88-4357-962b-a151-1d5925bbb210
-Q9388252,Zbigniew Rau,Zbigniew Rau,male,1955-02-03,11,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q25598671,Minister spraw zagranicznych,2020-08-26,Q9388252-8bd0a97a-44f3-ae44-90ac-b92e59a556e9
+item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
+Q11715561,Jacek Sasin,Q107919703,Minister aktywów państwowych,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q11715561-48D9CD1A-FCA1-46D4-A1B5-583F9FBBDD4E
+Q11715561,Jacek Sasin,Q15051532,Wiceprezes Rady Ministrów,2019-06-04,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q11715561-577031B8-BE01-4308-A8E9-C062E38F7909
+Q11771436,Mateusz Morawiecki,Q107919830,Minister cyfryzacji,2020-10-06,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q11771436-39D03DEC-3404-43AF-9497-8DD643E00600
+Q11771436,Mateusz Morawiecki,Q3259469,Prezes Rady Ministrów,2017-12-11,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q11771436-3cb87835-47ad-9824-569b-1729367f9b02
+Q11778705,Michał Dworczyk,Q107919931,Szef Kancelarii Prezesa Rady Ministrów,2017-12-19,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q11778705-36A37A1C-8811-4890-8C57-500DD787C18A
+Q11778705,Michał Dworczyk,Q93417831,Minister - członek Rady Ministrów,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q11778705-73443FD6-291B-4BF0-B4E6-BA09C3C93B72
+Q11817487,Piotr Gliński,Q107919945,Przewodniczący Komitetu do spraw pożytku publicznego,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q11817487-9C4A003E-9F20-4723-B708-26A1F50FA53C
+Q11817487,Piotr Gliński,Q28976975,Minister kultury i dziedzictwa narodowego,2015-11-16,,https://www.gov.pl/web/gov/rada-ministrow,2021-11-10,Q11817487-BE433841-C2AC-4E01-91B8-457499B862AF
+Q11817487,Piotr Gliński,Q15051532,Wiceprezes Rady Ministrów,2015-11-16,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q11817487-F0011A95-55AB-4E87-9197-F77CF811DD5D
+Q159472,Zbigniew Ziobro,Q28048774,Minister sprawiedliwości,2015-11-16,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q159472-1ed2b27d-4ffc-92d5-33c3-f1118ce9db14
+Q1748055,Mariusz Błaszczak,Q15051532,Wiceprezes Rady Ministrów,2022-06-22,,https://www.gov.pl/web/gov/rada-ministrow,2022-07-14,Q1748055-5e01af68-42c6-8a4e-5fc8-c30a850861ff
+Q1748055,Mariusz Błaszczak,Q30960711,Minister obrony narodowej,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q1748055-7DDDC5B5-1466-46F2-9B9B-DAF048CF2F10
+Q21282013,Waldemar Buda,Q101246734,Minister rozwoju i technologii,2022-04-08,,https://www.gov.pl/web/gov/rada-ministrow,2022-04-29,Q21282013-46a58b4a-47c6-e57c-3480-b0a10f560e75
+Q21282109,Grzegorz Puda,Q109587291,Minister funduszy i polityki regionalnej,2021-10-26,,https://www.gov.pl/web/gov/rada-ministrow,2021-11-15,Q21282109-a84503bd-4c1a-a900-10cb-84a1022c17aa
+Q21282120,Łukasz Schreiber,Q93417831,Minister - członek Rady Ministrów,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q21282120-0FCC2F45-2189-4C19-B032-68AD307A78C5
+Q21282142,Agnieszka Ścigaj,Q93417831,Minister – członek Rady Ministrów,2022-06-22,,https://www.gov.pl/web/gov/rada-ministrow,2022-07-14,Q21282142-B0730D64-CE44-4A1E-882E-65A124BC8883
+Q22350992,Przemysław Czarnek,Q25711733,Minister edukacji i nauki,2020-10-19,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q22350992-6B57C37D-B73B-4F6B-8F50-B2C678F6D5AE
+Q381575,Andrzej Adamczyk,Q107919732,Minister infrastruktury,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q381575-ED968F78-C161-49C3-8302-C6ECD5FD8F92
+Q3845166,Mariusz Kamiński,Q93417831,Koordynator służb specjalnych,2015-11-16,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q3845166-5461AF2A-64E5-4126-BEEF-DE5C588F50B2
+Q3845166,Mariusz Kamiński,Q25598713,Minister Spraw Wewnętrznych i Administracji,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q3845166-9FC87518-2258-476F-A98D-CA21FB49045A
+Q432110,Henryk Kowalczyk,Q107919710,Minister rolnictwa i rozwoju wsi,2021-10-26,,https://www.gov.pl/web/gov/rada-ministrow,2021-11-15,Q432110-88EA9B90-0632-48B1-9D43-C1B1EEF8F4A0
+Q432110,Henryk Kowalczyk,Q15051532,Wiceprezes Rady Ministrów,2021-10-26,,https://www.gov.pl/web/gov/rada-ministrow,2021-11-10,Q432110-B68B54C7-E362-40A7-B837-78FA39A2EAAB
+Q440788,Konrad Szymański,Q11781474,Minister do spraw Unii Europejskiej,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-11-10,Q440788-BBEC1AFB-26E3-48D2-A7BE-B1CFFC8FD79A
+Q48842537,Marlena Maląg,Q25919989,Minister rodziny i polityki społecznej,2019-11-15,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q48842537-C75F9F0E-A140-4DD7-B28E-6618A3E55D9B
+Q48862466,Adam Niedzielski,Q57775575,Minister zdrowia,2020-08-26,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q48862466-5129FB94-7D8A-4FA6-B7B4-1A33DB10A77E
+Q55339828,Anna Moskwa,Q107919643,Minister klimatu i środowiska,2020-10-26,,https://www.gov.pl/web/gov/rada-ministrow,2021-11-15,Q55339828-43D4F21C-041A-4FA5-BC72-0E988AC735C5
+Q60833165,Kamil Bortniczuk,Q45119834,Minister sportu i turystyki,2021-10-26,,https://www.gov.pl/web/gov/rada-ministrow,2021-11-10,Q60833165-D53ED1F3-DB2E-42C1-8B62-254E029A5E94
+Q6836077,Michał Wójcik,Q93417831,Minister – członek Rady Ministrów,2020-10-06,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q6836077-8BCEEB3B-8251-4832-AFDB-93DE2EF2C436
+Q8067731,Zbigniew Hoffmann,Q93417831,"Minister - członek Rady Ministrów, sekretarz Komitetu Rady Ministrów do spraw Bezpieczeństwa Narodowego i spraw Obronnych",2022-06-22,,https://www.gov.pl/web/gov/rada-ministrow,2022-07-14,Q8067731-f441d353-4068-bae5-1eae-a54a1ef4611d
+Q87408679,Magdalena Rzeczkowska,Q11781525,Minister finansów,2022-04-26,,https://www.gov.pl/web/gov/rada-ministrow,2022-04-29,Q87408679-cc5c0c88-4357-962b-a151-1d5925bbb210
+Q9382853,Włodzimierz Tomaszewski,Q93417831,Minister – członek Rady Ministrów,2022-06-22,,https://www.gov.pl/web/gov/rada-ministrow,2022-07-14,Q9382853-F9BC5E13-D561-4F0B-809D-11EDA3A06542
+Q9388252,Zbigniew Rau,Q25598671,Minister spraw zagranicznych,2020-08-26,,https://www.gov.pl/web/gov/rada-ministrow,2021-08-05,Q9388252-8bd0a97a-44f3-ae44-90ac-b92e59a556e9
