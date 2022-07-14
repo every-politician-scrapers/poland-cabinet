@@ -1,11 +1,9 @@
 {
   "name": "Andrzej Duda",
-  "office": "President of Poland (de facto)",
+  "office": "President of Poland",
   "term_start": "6 August 2015",
-  "term_end": "6 August 2020 (de jure)",
   "primeminister": "Ewa Kopacz\nBeata Szydło\nMateusz Morawiecki",
   "predecessor": "Bronisław Komorowski",
-  "successor": "himself (de facto)",
   "office1": "Member of the European Parliament",
   "constituency1": "10 - Kraków",
   "term_start1": "1 July 2014",
@@ -35,5 +33,4 @@
   "children": "1",
   "residence": "Presidential Palace",
   "alma_mater": "Jagiellonian University",
-  "signature": "Andrzej Duda Signature 02.svg"
 }
