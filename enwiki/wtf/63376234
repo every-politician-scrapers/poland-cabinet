@@ -1,0 +1,115 @@
+{
+  "title": "Włodzimierz Tomaszewski",
+  "pageID": 63376234,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Members of the Polish Sejm 2019–2023",
+    "Politicians from Łódź"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Włodzimierz Tomaszewski (born 16 November 1956 in Łódź) is a Polish politician who was vice president of Łódź (2002–2010) and a member of the IX Sejm.",
+              "links": [
+                {
+                  "text": "Łódź",
+                  "type": "internal",
+                  "page": "Łódź"
+                },
+                {
+                  "text": "Łódź",
+                  "type": "internal",
+                  "page": "Łódź"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sejm"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Włodzimierz Tomaszewski"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Włodzimierz_Tomaszewski_2020_Poseł_na_Sejm_RP.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/W%C5%82odzimierz_Tomaszewski_2020_Pose%C5%82_na_Sejm_RP.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/W%C5%82odzimierz_Tomaszewski_2020_Pose%C5%82_na_Sejm_RP.jpg",
+          "caption": "Włodzimierz Tomaszewski",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Polish politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Włodzimierz Tomaszewski"
+          ],
+          "date": "March 2020",
+          "template": "expand polish"
+        },
+        {
+          "stub": "yes",
+          "date": "March 2020",
+          "template": "improve categories"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.sejm.gov.pl/sejm9.nsf/posel.xsp?id=394&type=A",
+          "title": "Włodzimierz Tomaszewski",
+          "website": "www.sejm.gov.pl",
+          "access-date": "2020-03-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://lodz.naszemiasto.pl/wlodzimierz-tomaszewski-byly-wiceprezydent-lodzi-odpowiada/ar/c13-2105536",
+          "title": "Włodzimierz Tomaszewski - były wiceprezydent Łodzi odpowiada na apel do radnych w sprawie EC1 [LIST]",
+          "last": "Redakcja",
+          "date": "2013-12-18",
+          "website": "Łódź Nasze Miasto",
+          "language": "pl-PL",
+          "access-date": "2020-03-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/sejm/okr/9",
+          "title": "Wybory do Sejmu i Senatu Rzeczypospolitej Polskiej 2019 r.",
+          "website": "sejmsenat2019.pkw.gov.pl",
+          "language": "pl",
+          "access-date": "2020-03-14",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "poland-politician-stub"
+        }
+      ]
+    }
+  ]
+}
